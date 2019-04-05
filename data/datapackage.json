@@ -1,0 +1,84 @@
+{
+  "profile": "tabular-data-package",
+  "name": "JRC Hydro Power Plants Database",
+  "homepage": "http://github.com",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+  // here we list the data files in this dataset
+  "resources": [
+    {
+      "path": "jrc-hydro-power-plant-database.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+        {
+            "name": "id",
+            "type": "integer",
+            "description": "Sequential identifier of the hydro-power plant"
+          },
+          {
+            "name": "pypsa_id",
+            "type": "integer",
+            "description": "Association with the ID column from https://github.com/PyPSA/pypsa-eur/blob/master/resources/powerplants.csv"
+          },
+          {
+            "name": "GEO",
+            "type": "integer",
+            "description": "Association with the GEO Assigned Identification Number from http://globalenergyobservatory.org/ "
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name of the power plant"
+          },
+          {
+            "name": "installed_capacity_MW",
+            "type": "number",
+            "description": "Electrical power generation capacity in MW"
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "Typologi of the power plant, according to the Dispa-SET classification of technologies http://www.dispaset.eu/en/latest/data.html"
+            
+          },
+          {
+            "name": "country_code",
+            "type": "string",
+            "description": "Country code according to ISO 3166-1 alpha-2"
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "description": "Latitude of the power plant in decimal degrees"
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "description": "Longitude of the power plant in decimal degrees (-180, 180)"
+          },
+          {
+            "name": "dam_height_m",
+            "type": "number",
+            "description": "Height of the dam in meters"
+          },
+          {
+            "name": "volume_Mm3",
+            "type": "number",
+            "description": "Useful capacity of the reservoir in million of cubic meters"
+          },
+          {
+            "name": "storage_capacity_MWh",
+            "type": "number",
+            "description": "Potential quantity of energy that can be stored in MWh"
+          }
+        ]
+      }
+    }
+  ]
+}
