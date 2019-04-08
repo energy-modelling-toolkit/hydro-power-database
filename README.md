@@ -35,7 +35,7 @@ Here a list of all the people which have personally contributed to this dataset.
    - Jonas Hörsch, Reiner Lemoine Institut (RLI) and KIT
    - Francesco Careri, JRC
    - Sebastian Busch, JRC
-   - André Ortner, IASA
+   - André Ortner, MVV Energie and TU Wien
    
 ## Coverage
 
