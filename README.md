@@ -1,4 +1,6 @@
  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+ [![DOI](https://zenodo.org/badge/179688356.svg)](https://zenodo.org/badge/latestdoi/179688356)
+
 # JRC Hydro-power plants database
 
 ![map of hydro-power plants](map-location.png)
