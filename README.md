@@ -19,11 +19,12 @@ The dataset contains the following variables (documented in the data package JSO
   - maximum storage capacity in MWh
   - link with the GEO and the PyPSA-EUR databases
   
-The storage capacity  is reported only when directly available from the source, thus is **not** estimated or derived by the other variables. 
+The storage capacity  is reported only when directly available from the source, thus is **not** estimated or derived by us from the other variables. 
 
 This dataset is released under [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-## Contribute
+## Discuss & Contribute
+If you have any question or comment the best way would be to add a post in the Issues to keep track of open and closed issues/questions.
 If you want to contribute please [send me an email](mailto:matteo.de-felice@ec.europa.eu) or  submit a Pull Request on this repository. 
 
 ## Author and contributors
