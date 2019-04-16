@@ -39,6 +39,7 @@ Here a list of all the people which have personally contributed to this dataset.
    - Francesco Careri, JRC
    - Sebastian Busch, JRC
    - André Ortner, MVV Energie and TU Wien
+   - Clément Cabot, PSL - Mines-ParisTech
    
 ## Coverage
 
