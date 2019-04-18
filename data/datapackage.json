@@ -9,7 +9,7 @@
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
-  // here we list the data files in this dataset
+
   "resources": [
     {
       "path": "jrc-hydro-power-plant-database.csv",
