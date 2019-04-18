@@ -19,7 +19,7 @@
         {
             "name": "id",
             "type": "integer",
-            "description": "Sequential identifier of the hydro-power plant"
+            "description": "Unique identifier of the hydro-power plant"
           },
           {
             "name": "pypsa_id",
