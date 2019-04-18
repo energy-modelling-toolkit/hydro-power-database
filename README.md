@@ -3,7 +3,7 @@
 
 # JRC Hydro-power plants database
 
-![map of hydro-power plants](map-location.png)
+![map of hydro-power plants](map-location-v2.png)
 
 This dataset is an output of the Energy work package of the Water-Energy-Food-Ecosystems (WEFE) Nexus project at the European Commission's Joint Research Centre (JRC). This dataset has been created for power system modelling purposes and it is based on publicly available sources. This dataset tries to collect some basic information on all the European hydro-power plants. 
 
