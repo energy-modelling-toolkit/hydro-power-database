@@ -43,39 +43,39 @@ Here a list of all the people which have personally contributed to this dataset.
    
 ## Coverage
 
-The dataset contains 3793 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 3805 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
 |Albania                |  1.9|
-|Austria                | 14.0|
+|Austria                | 13.9|
 |Belgium                |  1.4|
 |Bosnia and Herzegovina |  2.0|
 |Bulgaria               |  3.0|
 |Croatia                |  2.1|
-|Czech Republic         |  1.9|
+|Czechia                |  1.9|
 |Finland                |  2.6|
-|France                 | 21.5|
+|France                 | 20.6|
 |FYR of Macedonia       |  0.6|
-|Germany                | 10.4|
+|Germany                | 10.1|
 |Greece                 |  3.4|
 |Hungary                |  0.0|
-|Ireland                |  0.4|
-|Italy                  | 18.6|
+|Ireland                |  0.6|
+|Italy                  | 18.9|
 |Latvia                 |  1.5|
 |Lithuania              |  1.0|
 |Luxembourg             |  1.3|
 |Montenegro             |  0.7|
 |Norway                 | 33.2|
 |Poland                 |  2.1|
-|Portugal               |  6.4|
+|Portugal               |  6.8|
 |Romania                |  5.0|
 |Serbia                 |  2.8|
 |Slovakia               |  2.5|
 |Slovenia               |  1.2|
-|Spain                  | 17.1|
+|Spain                  | 16.5|
 |Sweden                 | 13.8|
-|Switzerland            | 18.9|
+|Switzerland            | 18.4|
 |United Kingdom         |  4.0|
 
 ## Sources
@@ -87,6 +87,7 @@ The database has been built collecting the information from several other source
   - [PyPSA-EUR](https://github.com/PyPSA/pypsa-eur)
   - [Global Reservoir and Dam Database (GRanD) 1.3](http://globaldamwatch.org/) 
   - [Marktstammdatenregister MaStR](https://www.marktstammdatenregister.de/MaStR)
+  - [Open Data Réseaux Énergies](https://opendata.reseaux-energies.fr/pages/accueil/)
   - [Engadiner Kraftwerke AG website](https://www.ekwstrom.ch/startseite.html)
   - [Latvenergo AS website](https://www.latvenergo.lv/)
   - [Gimeno-Gutiérrez and Roberto Lacal-Arántegui, Renewable Energy, 2015](https://www.sciencedirect.com/science/article/pii/S096014811400706X)
@@ -120,5 +121,19 @@ The database has been built collecting the information from several other source
   - [Savske elektrarne Ljubljana website](http://www.sel.si/)
   - [Kemijoki website](https://www.kemijoki.fi)
   - [NVE website](https://www.nve.no/)
- 
-
+  - [Regione Sardegna website](https://www.regione.sardegna.it)
+  - [ENAS Regione Sardegna website](http://www.enas.sardegna.it)
+  - [GHT Engineering website](http://www.ghtengineering.it)
+  - [TPF Ingenerie website](https://tpf.eu/)
+  - [Bissi Holding website](http://www.bissiholding.com)
+  - [Burgo group website](https://www.burgo.com)
+  - [Edison website](https://www.edison.it)
+  - [Italgen website](http://www.italgen.it/)
+  - [Eneco website](http://www.eneco.it/it/home.html)
+  - [IREN Energia website](http://www.irenenergia.it)
+  - [Tirreno power](http://www.tirrenopower.com)
+  - [ČEZ website](https://www.cez.cz)
+  - [ČEPS website](https://www.ceps.cz/cs/)
+  - [ESB website](https://www.esb.ie)
+  - [Charlotta Canzler, THE ECONOMICS OF SWISS HYDROPOWER PRODUCTION](https://ivm.vu.nl/en/Images/Canzler_Charlotta_-_Thesis_Charlotta_Canzler_PDF_tcm234-352241.pdf)
+  - [UK Energy Watch website](http://www.ukenergywatch.org)
