@@ -3,7 +3,7 @@
 
 # JRC Hydro-power plants database
 
-![map of hydro-power plants](map-location-v2.png)
+![map of hydro-power plants](map-location-v3.png)
 
 This dataset is an output of the Energy work package of the Water-Energy-Food-Ecosystems (WEFE) Nexus project at the European Commission's Joint Research Centre (JRC). This dataset has been created for power system modelling purposes and it is based on publicly available sources. This dataset tries to collect some basic information on all the European hydro-power plants. 
 
@@ -34,16 +34,18 @@ Here a list of all the people which have personally contributed to this dataset.
    - Konstantinos Kanellopoulos, JRC
    - Ignacio Hidalgo-González, JRC
    - Hrvoje Medarac, JRC
-   - Goran Stunjek, Goran Krajacic, University of Zagreb
+   - Goran Stunjek, University of Zagreb
+   - Goran Krajacic, University of Zagreb
    - Jonas Hörsch, Reiner Lemoine Institut (RLI) and KIT
    - Francesco Careri, JRC
    - Sebastian Busch, JRC
    - André Ortner, MVV Energie and TU Wien
    - Clément Cabot, PSL - Mines-ParisTech
+   - [@flacombe](https://github.com/flacombe)
    
 ## Coverage
 
-The dataset contains 3805 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 3877 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
@@ -51,25 +53,25 @@ The dataset contains 3805 hydro-power plants. This is a table summarising the in
 |Austria                | 13.9|
 |Belgium                |  1.4|
 |Bosnia and Herzegovina |  2.0|
-|Bulgaria               |  3.0|
+|Bulgaria               |  2.9|
 |Croatia                |  2.1|
 |Czechia                |  1.9|
-|Finland                |  2.6|
-|France                 | 20.6|
+|Finland                |  2.9|
+|France                 | 20.0|
 |FYR of Macedonia       |  0.6|
 |Germany                | 10.1|
 |Greece                 |  3.4|
-|Hungary                |  0.0|
+|Hungary                |  0.1|
 |Ireland                |  0.6|
 |Italy                  | 18.9|
 |Latvia                 |  1.5|
 |Lithuania              |  1.0|
 |Luxembourg             |  1.3|
 |Montenegro             |  0.7|
-|Norway                 | 33.2|
+|Norway                 | 32.0|
 |Poland                 |  2.1|
 |Portugal               |  6.8|
-|Romania                |  5.0|
+|Romania                |  6.2|
 |Serbia                 |  2.8|
 |Slovakia               |  2.5|
 |Slovenia               |  1.2|
@@ -88,6 +90,7 @@ The database has been built collecting the information from several other source
   - [Global Reservoir and Dam Database (GRanD) 1.3](http://globaldamwatch.org/) 
   - [Marktstammdatenregister MaStR](https://www.marktstammdatenregister.de/MaStR)
   - [Open Data Réseaux Énergies](https://opendata.reseaux-energies.fr/pages/accueil/)
+  - [OpenStreetMap](www.openstreetmap.org)
   - [Engadiner Kraftwerke AG website](https://www.ekwstrom.ch/startseite.html)
   - [Latvenergo AS website](https://www.latvenergo.lv/)
   - [Gimeno-Gutiérrez and Roberto Lacal-Arántegui, Renewable Energy, 2015](https://www.sciencedirect.com/science/article/pii/S096014811400706X)
@@ -98,7 +101,7 @@ The database has been built collecting the information from several other source
   - [Drinsko-Limske Hidroelektrane website](http://dlhe.rs/)
   - [Verbund website](https://www.verbund.com/)
   - [Geth et al., Renewable and Sustainable Energy Reviews, 2015](https://www.sciencedirect.com/science/article/pii/S1364032115007923)
-  - Wikipedia EN, DE
+  - Wikipedia EN, DE, FR
   - [Karin Salevid, Uppsala Universitet, 2013](https://uu.diva-portal.org/smash/get/diva2:661286/FULLTEXT01.pdf)
   - [Vattenkraft.info](https://vattenkraft.info/)
   - [The United Nations Economic Commission for Europe (UNECE) website](http://www.unece.org/)
@@ -137,3 +140,6 @@ The database has been built collecting the information from several other source
   - [ESB website](https://www.esb.ie)
   - [Charlotta Canzler, THE ECONOMICS OF SWISS HYDROPOWER PRODUCTION](https://ivm.vu.nl/en/Images/Canzler_Charlotta_-_Thesis_Charlotta_Canzler_PDF_tcm234-352241.pdf)
   - [UK Energy Watch website](http://www.ukenergywatch.org)
+  - [hydrelect.info](http://www.hydrelect.info/)
+  - [Digitális Tankönyvtár](https://www.tankonyvtar.hu/en)
+  - [Hidroelectrica](www.hidroelectrica.ro)
