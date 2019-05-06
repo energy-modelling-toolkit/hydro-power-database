@@ -4,29 +4,28 @@ H2,Dinorwig,1728,HPHS,GB,53.1187439999999,-4.113624,,6.7,9100,23,2941
 H3,Grand maison GRAND MAISON 1 - Grand Maison Pumped Storage Hydroelectric Power Station France,1690,HPHS,FR,45.20597,6.11719,955,132,34800,1541,42969
 H4,Muela,1516.76,HPHS,ES,39.243581,-0.931709,450,20,24500,209,
 H5,Psw vianden Vianden 1 - Vianden Pumped Storage Power Plant Luxembourg,1291,HPHS,LU,49.9515671281818,6.18003128690909,280,7.34,4478,1551,45216
-H7,Aldeadavila,1226.43,HPHS,ES,41.2093349999999,-6.686566,139.5,56.6,35000,21,43823
-H8,ChePortileDeFier_PFIERI1_CA - Iron Gate I Hydroelectric Power Station Romania,1165.8000000000002,HDAM,RO,44.673,22.532,60,2100,,3705,40975
-H9,Coo trois ponts,1164,HPHS,BE,50.3717154,5.8703455,275,8.5,5000,830,41951
+H7,Aldeadavila,1226.43,HPHS,ES,41.2093349999999,-6.686566,139.5,56.6,35e3,21,43823
+H1020,Arcesti,38,HDAM,RO,44.449583,24.312917,31,43.4,,,
+H9,Coo trois ponts,1164,HPHS,BE,50.3717154,5.8703455,275,8.5,5e3,830,41951
 H10,Chiotas entracque,1124,HPHS,IT,44.1775758,7.4165053,130,30.18,16860,831,45432
 H11,HE Derdap 1 G1 - Djerdap-1 (Iron Gate I) Hydroelectric Power Station Serbia,1083,HDAM,RS,44.668999,22.527,,2100,343350,,44111
 H12,Goldisthal PSW Goldisthal PSS A - Goldisthal Pumped Storage Power Plant Germany,1052,HPHS,DE,50.50975864,11.02087498,302,12,8050,1540,44336
 H13,Markersbach PSW Markersbach PSS A - Markersbach Pumped Storage Power Plant Germany,1045.2,HPHS,DE,50.51938,12.87976,285,6.3,3989,1545,44337
 H14,Presenzano UP_PRESENZAN_1 - Presenzano (Domenico Cimarosa) Pumped Storage Power Plant Italy,1005,HPHS,IT,41.380906,14.09146,45,6,15075,18,45430
-H15,Roncovalgrande UP_RONCOVALG_1PS - Roncovalgrande Pumped Storage Power Plant Italy,1000,HPHS,IT,46.067588,8.731877,,10,17700,19,45431
+H15,Roncovalgrande UP_RONCOVALG_1PS - Roncovalgrande Pumped Storage Power Plant Italy,1e3,HPHS,IT,46.067588,8.731877,,10,17700,19,45431
 H17,Edolo UP_EDOLO_1 - Edolo Pumped Storage Hydroelectric Power Plant Italy,950,HPHS,IT,46.172153,10.344367,37.5,17.04,4900,14,43971
-H18,"JM,ORIOL 1 - Jose Maria de Oriol (Alcantara) Hydroelectric Power Plant Spain",934,HDAM,ES,39.730301,-6.8849,130,3162,970100,161,43822
+H18,JM ORIOL 1 - Jose Maria de Oriol (Alcantara) Hydroelectric Power Plant Spain,934,HDAM,ES,39.730301,-6.8849,130,3162,970100,161,43822
 H20,Montezic MONTEZIC 1 - Montezic Pump Storage Hydroelectric Power Station France,910,HPHS,FR,44.73766,2.64342,423,34,31573,1546,42240
 H21,Wehr Kraftwerk Wehr - Wehr Pumped Storage Hydroelectric Power Plant Germany,910,HPHS,DE,47.64529898,7.91819945,,4.4,7900,1563,44456
 H22,Kruonis & extension Kruonio KHAE-----HA1 - Kruonis Pumped Storage Hydroelectric Power Plant Lithuania,900,HPHS,LT,54.797866,24.248169,,41,,2891,42161
 H23,Nant drance NANT DE DRANCE - Nant de Drance Pumped Storage Power Plant Switzerland,900,HPHS,CH,46.1025948,7.07705509999999,45,13.8,,2910,45484
-H24,Bissorte Hydroelectric 1/2/3,800,HDAM,FR,45.202,6.585,63,39.5,,,39783
+H24,Bissorte Hydroelectric 1/2/3,825,HPHS,FR,45.202,6.585,1160,39.5,,1536,39783
 H25,Plavinas hpp Plavinas HPP - Plavinas Hydroelectric Power Plant Latvia,869,HDAM,LV,56.583,25.2394,58,510,46330,2964,42156
-H26,PSHPP_CHAIRA_GP1 - Chaira Pumped Storage Hydroelectric Power Plant Bulgaria,864,HPHS,BG,42.159,23.871,690,76.08374298190893,,2901,42172
+H689,Aleko Aleko Hydroelectric Power Plant Bulgaria - Aleko Hydroelectric Power Plant Bulgaria,66,HDAM,BG,42.1194,24.289,272,0.17,,3009,42191
 H27,Harsprånget Harspranget G1 - Harspranget Hydroelectric Power Station Sweden,855,HDAM,SE,66.885308999999907,19.818399,51,6.4,,2,42916
-H28,Villarino VLLRINO 1G - Almendra (Villarino) Hydroelectric Power Plant Spain,850.88,HPHS,ES,41.271328,-6.320278,202,2648,3458000,26,43825
+H28,Villarino VLLRINO 1G - Almendra (Villarino) Hydroelectric Power Plant Spain,850.88,HPHS,ES,41.271328,-6.320278,202,2648,3458e3,26,43825
 H29,Revin REVIN 1 - Revin Pump Storage Hydroelectric Power Station France,808,HPHS,FR,49.92556,4.61331,233,8.7,4503,1549,45157
 H30,Kopswerk Kopswerk 2 M1 - Kops II Pumped Storage Power Plant Austria,525,HPHS,AT,46.96845,10.05986,,42,2300,1560,45211
-H31,Super bissorte SUPER BISSORTE 1 - Super-Bissorte Pumped Storage Hydroelectric Power Station France,742.3,HPHS,FR,45.1803,6.5797,1158,40,3200,1536,44379
 H32,Venda Nova III,736,HPHS,PT,41.692695,-8.027817,,,,2908,43565
 H33,Čierny váh Cierny Vah TG1 - Cierny Vah Pumped Storage Hydroelectric Power Plant Slovakia,735.16,HPHS,SK,49.0091,19.91203,,3.7,,1556,42635
 H34,Malta hauptstufe Malta-Hauptstufe-KW - Malta Haupstufe (Rottau)  Pumped Storage Power Plant Austria,730,HDAM,AT,46.870564,13.329601,50,6.2,16100,1543,44815
@@ -36,18 +35,18 @@ H37,Schluchsee,699,HPHS,DE,47.648998,7.969,,,,,
 H38,Grimsel KWO ProduktionPS - Grimsel 3 Pumped Storage Power Plant Switzerland,660,HPHS,CH,46.5680720667,8.31932651704,,,210,,
 H39,Grosio UP_PREM-GROSIO_1,655,HROR,IT,46.489007,10.294052,,1.2,1700,243,
 H40,EDST_G1____ - Dlouhe Strane Pumped Storage Hydroelectric Power Plant Czech Republic,650,HPHS,CZ,50.083,17.181,56,2.72,,3065,42364
-H42,Alto lindoso Alto Lindoso - G1 - Alto Lindoso Hydroelectric Power Plant Portugal,630,HDAM,PT,41.872,-8.2025,110,348,237000,2914,43535
+H42,Alto lindoso Alto Lindoso - G1 - Alto Lindoso Hydroelectric Power Plant Portugal,630,HDAM,PT,41.872,-8.2025,110,348,237e3,2914,43535
 H44,RHE Bajina Basta G1 - Bajina Basta Pumped Storage Hydroelectric Power Plant Serbia,614,HPHS,RS,43.865002,19.406,42,150,,,44122
 H45,Komani - KOMANG1,600,HDAM,AL,42.104,19.826,133,450,,,
 H47,Bathie BATHIE - Bathie (La) Hydroelectric Power Station France,368.63,HDAM,FR,45.68545,6.62248999999999,1210,185,567200,1575,39814
 H48,Stornorrfors Stornorrfors G1 - Stornorrfors Hydroelectric Power Station Sweden,575,HDAM,SE,63.85198,20.051344,75,,,11,42911
-H49,"S,fiorano",544,HPHS,IT,46.049856,10.351457,,38.8,130400,16,45424
-H50,Porąbka żar Porabka Zar H1 - Porabka-Zar Pumped Storage Power Plant Poland,540,HPHS,PL,49.7704966,19.2116631,,,2000,1547,42466
+H49,S.fiorano,544,HPHS,IT,46.049856,10.351457,,38.8,130400,16,45424
+H50,Porąbka żar Porabka Zar H1 - Porabka-Zar Pumped Storage Power Plant Poland,540,HPHS,PL,49.7704966,19.2116631,,,2e3,1547,42466
 H51,Saucelle SAUCE II 1 - Saucelle Hydroelectric Power Plant Spain,516.39,HDAM,ES,41.041734,-6.805412,83,181.5,35600,178,44131
 H52,Alqueva,514,HPHS,PT,38.197508,-7.496394,96,4150,5800,2890,43534
-H53,CheLotru_LOTR1_CA - Lotru-Ciunget Hydroelectric Power Plant Romania,510,HDAM,RO,45.446999,23.768,121,340,,,40977
+H1598,Arpasu,14,HDAM,RO,45.79375,24.595417,20,7.35,,,
 H54,Silz SILZ 1,500,HDAM,AT,47.2666667,10.9333333,45,3,8900,3771,
-H55,"Anapo c,le UP_ANAPO_C,L_1 - Anapo Pumped Storage Power Plant Italy",500,HPHS,IT,37.115761,15.137157,,5.6,4000,13,45434
+H55,Anapo c.le UP_ANAPO_C.L_1 - Anapo Pumped Storage Power Plant Italy,500,HPHS,IT,37.115761,15.137157,,5.6,4e3,13,45434
 H56,Limmern,500,HPHS,CH,46.9218287,8.9996438,146,92,,1832,
 H57,Fierze - FIERZAG1,500,HDAM,AL,42.243999,20.014999,167,2700,,,
 H60,Rodundwerk Rodund 1 2 - Rodund II Pumped Storage Power Plant Austria,493,HPHS,AT,47.084744,9.8778575,,2.24,1800,1561,45207
@@ -65,9 +64,9 @@ H71,Messaure Messaure G1 - Messaure Hydroelectric Power Station Sweden,450,HDAM,
 H72,Innertkirchen Innertkirchen 2 Hydroelectric Power Plant Switzerland - Innertkirchen 2 Hydroelectric Power Plant Switzerland,448.3,HDAM,CH,46.7085534816,8.22601948865,94,27,,1762,45446
 H73,Pouget POUGET 4 - Pouget (Le) Hydroelectric Power Station France,446.9,HDAM,FR,43.65604,3.40178,461.2,10.9,700,1548,39723
 H74,Waldeck bringhausen Waldeck II M5 - Waldeck II Pumped Storage Power Plant Germany,440,HPHS,DE,51.167139,9.046832,324,4.4,3400,1552,44356
-H75,Cruachan,440,HPHS,GB,56.394104,-5.114319,46,11.3,10000,22,2824
+H75,Cruachan,440,HPHS,GB,56.394104,-5.114319,46,11.3,1e4,22,2824
 H76,Picote I / Picote II,440,HDAM,PT,41.379,-6.3525,74,13.43,,2960,43538
-H77,Kremasta,437.2,HDAM,GR,38.890417,21.499583,160,4495,694000,2949,42794
+H77,Kremasta,437.2,HDAM,GR,38.890417,21.499583,160,4495,694e3,2949,42794
 H78,Letsi Letsi G1 - Letsi Hydroelectric Power Plant Sweden,435,HDAM,SE,66.503203,20.380167,85,68,,3,44343
 H79,Bemposta,431,HPHS,PT,41.3009,-6.4699,87,20,2300,2918,43539
 H80,Reisseck Reisseck-Jahresspeicher-KW - Kolbnitz (Reisseck/Kreuzeck) Hydroelectric Power Plant Austria,430,HPHS,AT,47.0791667,13.3391666999999,46.5,7.8,31200,2906,45199
@@ -86,13 +85,13 @@ H94,Emosson Scheme,390,HDAM,CH,46.0508221655,6.94899701138,180,227,,1830,
 H96,Grimsel KWO ProduktionPS - Grimsel 2 Pumped Storage Power Plant Switzerland,388,HPHS,CH,46.5680720667,8.31932651704,,700,570,1755,45439
 H97,Serre poncon SERRE PONCON - Serre Poncon Hydroelectric Power Station France,370,HDAM,FR,44.47095,6.26967,124,1272,383600,1690,39770
 H98,Thisavros φράγμα θησαυρού,384,HPHS,GR,41.267032,24.5008777,,,,2894,42801
-H100,"S,massenza molveno UP_S,MASS,CL_1",377,HPHS,IT,46.067653,10.983605,,32.7,44800,251,
-H101,Tajo encantada,376.88,HPHS,ES,36.908265,-4.763865,,4,1000,216,
-H102,Polyfyto POLYFYTO - Polyfyto  Hydroelectric Power Plant Greece,375,HDAM,GR,40.3305,22.1253,105,1220,342000,2966,42797
-H103,PSHPP_BELMEKEN_1 - Belmeken Pumped Storage Hydroelectric Power Plant Bulgaria,375,HPHS,BG,42.198002,23.862,640,33.02245789145353,,,
+H100,"S.massenza molveno UP_S,MASS,CL_1",377,HPHS,IT,46.067653,10.983605,,32.7,44800,251,
+H101,Tajo encantada,376.88,HPHS,ES,36.908265,-4.763865,,4,1e3,216,
+H102,Polyfyto POLYFYTO - Polyfyto  Hydroelectric Power Plant Greece,375,HDAM,GR,40.3305,22.1253,105,1220,342e3,2966,42797
+H1732,Alexander Stambolyski Hydro Power Site,10.24,HDAM,BG,43.1213,25.171,50,200,,,
 H104,Miranda,369,HROR,PT,41.4886,-6.2656,,,,2954,43537
 H105,Monteynard MONTEYNARD - Monteyard-Avigonnet Hydroelectric Power Station France,366,HDAM,FR,44.96118,5.68874,153,275,77900,1659,39790
-H106,HE Bajina Basta G1 - Bajina Basta Hydroelectric Power Plant Serbia,364,HDAM,RS,43.964001,19.41,90,218,30000,,44121
+H106,HE Bajina Basta G1 - Bajina Basta Hydroelectric Power Plant Serbia,364,HDAM,RS,43.964001,19.41,90,218,3e4,,44121
 H107,ORLIK - Orlik Hydroelectric Power Plant Czech Republic,364,HDAM,CZ,49.606998,14.182,91,716.5,,,42362
 H108,Aguayo,360.6,HPHS,ES,43.095804,-4.0006559999999904,,,,205,
 H109,Aigle AIGLE 6 - L'Aigle Hydroelectric Generating Station France,360,HDAM,FR,45.24373,2.22483,92,220,,1911,3929
@@ -106,19 +105,19 @@ H116,DONZERE MONDRAGON - Bollene Hydroelectric Power Station France,345,HROR,FR,
 H119,Turlough hill Turlough Hill Unit 1 - Turlough Hill (Tomaneena) Pumped Storage Hydroelectric Power Plant Ireland,342,HPHS,IE,53.0280556,-6.39305559999999,,2.3,,833,43943
 H121,Bitsch,340,HDAM,CH,46.3336461722,8.0075990397,,9.2,16300,2023,
 H122,Aguieira Aguieira - G1 - Aguieira Hydroelectric Power Plant Brazil,336,HPHS,PT,40.340285,-8.196778,,,2352,2889,43566
-H123,Raul Mare (Retezat) Hydroelectric Power Station Romania - Raul Mare (Retezat) Hydroelectric Power Station Romania,335,HDAM,RO,45.3391,22.7213,168,220,,,40983
-H124,Pournari,334,HDAM,GR,39.1845,21.0255,87,730,50000,2967,42799
-H125,Juktan,334,HPHS,SE,64.986262,17.739707,,,25000,2849,
+H1599,Avrig,14,HDAM,RO,45.745417,24.39125,23,10.8,,,
+H124,Pournari,334,HDAM,GR,39.1845,21.0255,87,730,5e4,2967,42799
+H125,Juktan,334,HPHS,SE,64.986262,17.739707,,,25e3,2849,
 H126,Trängslet Trangslet G1 - Trängslet Hydroelectric Power Plant Sweden,330,HDAM,SE,61.3816449999999,13.731379,125,880,,1508,44342
 H127,Vietas Vietas G1 - Vietas Hydroelectric Power Station Sweden,330,HDAM,SE,67.493432,18.353512,30,5900,,12,46242
 H129,Altenwörth Altenwoerth-KW - Altenwoerth Hydroelectric Power Plant Austria,328,HROR,AT,48.374728,15.855343,37,,,33,45055
 H130,Venina VENINA,327.1,HROR,IT,46.159595,9.934951,,,,271,
 H131,Ricobayo RICOBA II1 - Ricobayo Hydroelectric Power Plant Spain,326.57,HDAM,ES,41.5260254,-5.9845018,302.9,1145,,173,44134
-H132,MEQUINENZA,324,HDAM,ES,41.368999,0.274,81,1533.8,265000,,
+H132,MEQUINENZA,324,HDAM,ES,41.368999,0.274,81,1533.8,265e3,,
 H133,Biasca,324,HDAM,CH,46.3349885215999,8.98264959939,92,4.6,,2018,
 H134,Coche COCHE - Coche (La) Hydroelectric Power Station France,320,HPHS,FR,45.49667,6.51038,34,2.1,,1538,39819
 H135,PSW Hohenwarte II PSS A,320,HPHS,DE,50.615002,11.492,304,3,2027,,
-H136,Kastraki KASTRAKI - Kastraki Hydroelectric Power Plant Greece,320,HDAM,GR,38.7415,21.3642,95.7,950,25000,2939,42793
+H136,Kastraki KASTRAKI - Kastraki Hydroelectric Power Plant Greece,320,HDAM,GR,38.7415,21.3642,95.7,950,25e3,2939,42793
 H137,Ritsem Ritsem G1 - Ritsem Hydro Power Station Sweden,304,HDAM,SE,67.729796,17.4849399999999,173,600,,8,46077
 H139,Sfikia SFIKIA - Sfikia Hydroelectric Power Plant Greece,315,HPHS,GR,40.3856573,22.2113777,81,18,,2893,42802
 H140,VISEGRAD - Visegrad Hydroelectric Power Plant Bosnia and Herzegovina,315,HDAM,BA,43.759998,19.289,79.5,161,,,44765
@@ -141,10 +140,10 @@ H166,Conso,268.02,HPHS,ES,42.166873,-7.17524499999999,,,,220,
 H167,Vouglans VOUGLANS - Vouglans Hydroelectric Power Station France,285,HDAM,FR,46.39734,5.66556,130,592.4,,1706,39796
 H169,Tierfehd limmern Tierfehd - Limmern GPSW - Linth–Limmern (Tierfehd) Hydroelectric Power Stations Switzerland,261,HDAM,CH,46.8761153436,8.98702934899,,92,700,1791,45436
 H170,Handeck Handeck 2 Hydroelectric Power Plant Switzerland - Handeck 2 Hydroelectric Power Plant Switzerland,260.4,HDAM,CH,46.6168313031999,8.30758712831,,,,1806,45443
-H171,"Zadeje Vau Dejes, Vau i Deja - VADEJG1",250,HDAM,AL,42.009998,19.625,60,500,,,
+H171,Zadeje Vau Dejes Vau i Deja - VADEJG1,250,HDAM,AL,42.009998,19.625,60,500,,,
 H174,Ybbs persenbeug Ybbs-Persenbeug-KW - Ybbs-Persenburg Hydroelectric Power Plant Austria,254,HROR,AT,48.189357,15.0677549999999,,,,125,45167
 H175,Porsi Porsi G3 - Porsi Hydroelectric Power Plant Sweden,274,HDAM,SE,66.428961,20.653796,,,,7,46241
-H176,Valdecanas,247.17,HPHS,ES,39.77787,-5.612464,116,1446,664000,228,
+H176,Valdecanas,247.17,HPHS,ES,39.77787,-5.612464,116,1446,664e3,228,
 H177,Rellswerk,244,HPHS,AT,47.0531826,9.7529724,,,,3238,
 H178,Kops Kops I Hydroelectric Power Plant Austria - Kops I Hydroelectric Power Plant Austria,243.853503184713,HDAM,AT,46.9712,10.0576,122,44.6,,3105,45210
 H179,Bolarque 1/2/3,240.2,HPHS,ES,40.362584,-2.819307,36,23,,231,
@@ -153,13 +152,13 @@ H182,Kaprun hauptstufe Kaprun-Hauptstufe-KW - Kaprun-Haupstufe Hydroelectric Pow
 H183,Taloro (Gusana - Cucchinadorza - Benzone) UP_TALORO1_1 - Tumuele Baddu Ozzana,314.3,HPHS,IT,40.127148,9.140644,80,67.78,12480,217,
 H184,Rance tidal RANCE - Rance Tidal Hydroelectric Power Station France,240,HPHS,FR,48.6180022,-2.0238876,27,184,,2905,44380
 H185,Valeira Valeira - G1 - Valeira Hydroelectric Power Plant Portugal,240,HROR,PT,41.1605,-7.3742,,,,2987,43540
-H186,HPP_SESTRIMO - Sestrimo Hydroelectric Power Plant Bulgaria,240,HDAM,BG,42.233002,23.950001,539,21.134373050530254,,3192,42174
+H1858,Barzia HPP,8,HDAM,BG,43.19,23.167,251,0.03,,,
 H187,Bort BORT 1 - Bort Les Orgues Hydroelectric Power Station France,232.2,HDAM,FR,45.41269,2.49862,125,477.4,,1583,39749
 H188,Lünerseewerk Luenersee Pumped Storage Power Plant Austria - Luenersee Pumped Storage Power Plant Austria,238,HDAM,AT,47.074251,9.874652,30,94,,1816,45213
 H189,Orlovac Orlovac - Orlovac Hydroelectric Power Plant Croatia,237,HPHS,HR,43.6737,16.784,380,782,,3148,44834
-H192,"Portas, Las",233,HDAM,ES,42.11625,-7.212083,141,536,906,,
+H192,Portas Las,233,HDAM,ES,42.11625,-7.212083,141,536,906,,
 H194,Roßhag Rosshag-KW - Rosshag Pumped Storage Power Plant Austria,231,HDAM,AT,47.086876,11.774061,131,126.5,331100,20,45043
-H195,P_AOOU - Aoos (Piges Aoos) Hydroelectric Power Plant Greece,230,HDAM,GR,39.836109,21.066389,78,180,242000,,42792
+H195,P_AOOU - Aoos (Piges Aoos) Hydroelectric Power Plant Greece,230,HDAM,GR,39.836109,21.066389,78,180,242e3,,42792
 H196,Venaus UP_VENAUS_1,230,HDAM,IT,45.161887,7.008396,,,,270,
 H197,SILS KHR,230,HROR,CH,46.703999,9.466,,,,,
 H198,Cimego UP_CIMEGO_1,229.9,HDAM,IT,45.923109,10.628414,738,12.26,,235,
@@ -167,17 +166,17 @@ H199,CONSO,228,HPHS,ES,42.167999,-7.174,,,,,
 H201,BELESAR 1,225,HDAM,ES,42.628502,-7.7122,207.3,655,,,
 H202,Krångede Krangede Hydroelectric Power Plant Sweden - Krangede Hydroelectric Power Plant Sweden,250,HDAM,SE,63.14623,16.0706,20,60,,2745,45669
 H203,Saint pierre cognet,223,HROR,FR,44.87249,5.77319,,,,1892,
-H204,Hpp mariselu / Mărișelu ,221,HDAM,RO,46.6679,23.059,92,212,,2953,40987
-H205,"MORALETS GR,1 GENERAC,",221,HPHS,ES,42.569,0.757,,,,213,
+H1035,Babeni,37,HDAM,RO,44.920417,24.250417,33,59.7,,,
+H205,MORALETS GR 1 GENERAC,221,HPHS,ES,42.569,0.757,,,,213,
 H206,Bärenburg,220.76,HDAM,CH,46.5901915364999,9.42142722621,64,1,,2004,
 H208,Erzhausen PSW Erzhausen Block 1 - Erzhausen Pumped Storage Power Plant Germany,220,HPHS,DE,51.89912,9.92452,287,1.6,1030,1557,44352
 H209,Witznau,220,HPHS,DE,47.6879099999999,8.25159,250,1.3,722,1853,
 H210,Somplago UP_TAGLIAMENTO_1,220,HROR,IT,46.343237,13.067161,,,,260,
-H213,Hpp vidraru CORB12 - Vidraru Hydroelectric Power Station Romania,220,HDAM,RO,45.3667,24.6307,166,469,,2989,40980
+H923,Beresti,44,HDAM,RO,46.187083,27.18375,29,12,,,
 H215,Senj - Senj Hydroelectric Power System Croatia Croatia,217,HDAM,HR,45.009998,14.893,410,142,,,44842
-H216,PDF212 - Iron Gate II Hydroelectric Power Station Romania,216,HROR,RO,44.306999,22.568001,35,600,,,40976
+H1718,Budeasa,11,HDAM,RO,44.91625,24.82125,33,54.9,,,
 H217,Dubrovnik - Dubrovnik Hydroelectric Power Plant Bosnia and Herzegovina,216,HDAM,HR,42.603001,18.235001,272,1109,,,44805
-H218,Villalcampo VILLALC 21 - Villalcampo Hydroelectric Power Plant Spain,215.81,HDAM,ES,41.491101,-6.084608,228,66,41000,190,44135
+H218,Villalcampo VILLALC 21 - Villalcampo Hydroelectric Power Plant Spain,215.81,HDAM,ES,41.491101,-6.084608,228,66,41e3,190,44135
 H219,Salamonde Salamonde II - G3 - Salamonde Hydroelectric Power Plant Portugal,215.5,HPHS,PT,41.689967,-8.092345,75,56.3,,2892,43544
 H220,Laufenburg,214.4,HROR,CH,47.5559133847999,8.049124536665,,,,2325,
 H221,Sisteron SISTERON 1 - Sisteron Hydroelectric Power Station France,214,HDAM,FR,44.17517,5.95215,17,1.8,,1693,39773
@@ -189,16 +188,16 @@ H226,Fadalto UP_FADALTO_1,210,HPHS,IT,46.028439,12.300677,,,,211,
 H227,Gallejaur Gallejaur G1 - Gallejour Hydroelectric Power Plant Seweden,214,HDAM,SE,65.127297,19.467367,56,12.6,,1,46248
 H228,Vallabregues VALLABREGUES - Beaucaire Hydroelectric Power Station France,210,HROR,FR,43.82415,4.64349,14,,,1940,39762
 H229,SALAKOVAC - Salakovac Hydroelectric Power Plant Bosnia and Herzegovina,210,HDAM,BA,43.448002,17.837,70,68,,,44766
-H230,Hpp stejaru STEJ1 - Bicaz-Stejaru Hydroelectric Power Station Romania,208.4,HDAM,RO,46.9386,26.1029,127,1230,,2978,40978
+H1021,Calimanesti,38,HDAM,RO,45.074583,24.364583,29,44.3,,,
 H231,HE DJERDAP II,208,HROR,RS,44.328999,22.528,35,,,,
-H233,"Guillena GUILLENA GR,1 GENERAC,",207.99,HPHS,ES,37.567315,-6.049541,217,2.33,1123,212,
+H233,Guillena GUILLENA GR 1 GENERAC,207.99,HPHS,ES,37.567315,-6.049541,217,2.33,1123,212,
 H234,Harrsele,210,HROR,SE,64.000342,19.566667,29,4.8,,781,
 H237,KWO Produktion_2 - Innertkirchen 1 Hydroelectric Power Plant Switzerland,205,HDAM,CH,46.716999,8.228,,14,21900,3091,45447
 H240,Carrapatelo Carrapatelo - G1 - Carrapatelo Hydroelectric Power Plant Portugal,201,HROR,PT,41.0849,-8.1306,,,,2921,43542
 H241,Solina Solina - Solina Pumped Storage Hydroelectric Power Plant Poland,200,HPHS,PL,49.3958323,22.4606916,,,840,1550,42474
 H242,Gerlos Gerlos-KW - Gerlos I-II Hydroelectric Power Plant Austria,200,HDAM,AT,47.233704,11.899669,610.5,0.85,1200,65,45035
 H245,Beauchastel BEAUCHASTEL - Beauchastel Hydroelectric Power Station France,222,HROR,FR,44.82397,4.81049,23,30,,1576,39756
-H246,Itoiz,198,HDAM,ES,42.80375,-1.362083,95.04323146986998,417,234000,,
+H246,Itoiz,198,HDAM,ES,42.80375,-1.362083,95.04323146986998,417,234e3,,
 H247,Jochenstein Jochenstein Hydroelectric Power Plant Austria - Jochenstein Hydroelectric Power Plant Austria,132,HROR,AT,48.5191878,13.7079666,,,,198,45169
 H248,Liptovská mara Liptovska MaraPS - Liptovska Mara Pumped Storage Hydroelectric Power Plant Slovakia,198,HPHS,SK,49.09823,19.48484,,360,,1555,42636
 H250,Frades I,196,HPHS,PT,41.693192,-8.027951,,,23520,3235,
@@ -248,10 +247,10 @@ H304,Taio UP_NOCE_1,161,HDAM,IT,46.326132,11.063244,,,,263,
 H305,Hojum Hojum Hydroelectric Power Plant Sweden - Hojum Hydroelectric Power Plant Sweden,172,HROR,SE,58.2802,12.2785164999999,17,,,770,44339
 H306,Happurg,160,HPHS,DE,49.48711,11.47441,,,,3237,
 H307,Bergeforsen Bergeforsen Hydroelectric Power Station Sweden - Bergeforsen Hydroelectric Power Station Sweden,160,HROR,SE,62.5193564999999,17.3850874999999,36,,,768,46251
-H309,Los Peares,159,HDAM,ES,42.465,-7.724,100.8,182,50000,,
+H309,Los Peares,159,HDAM,ES,42.465,-7.724,100.8,182,5e4,,
 H310,Castelo bode Castelo Bode - G1 - Castelo do Bode Hydroelectric Power Plant Portugal,159,HDAM,PT,39.5429,-8.3188,115,902.5,159500,2922,43550
 H311,Saint chamas SAINT CHAMAS - Saint Chamas Hydroelectric Power Station France,159,HDAM,FR,43.52741,5.07342,,,,1593,39735
-H313,Orfeus bulgeria HPP_ORFEUS_PUMP - Orfeus Pumped Storage Hydroelectric Power Plant Bulgeria,157.96178343949,HDAM,BG,41.9404,24.27,65.8,226.12,,3147,42186
+H886,Batak Batak Hydroelectric Power Plant Bulgaria - Batak Hydroelectric Power Plant Bulgaria,46.2038216560509,HDAM,BG,41.91922,24.19305,421,87.7,,3020,42185
 H315,Żydowo ZydowoPS - Zydowo Pumped Storage Hydroelectric Power Plant Poland,157,HPHS,PL,54.0216713,16.7385445,,,670,1554,42470
 H316,Marckolsheim MARCKOLSHEIM - Marckolsheim Hydroelectric Power Station France,156.2,HROR,FR,48.15371,7.5898,22,18.148,,1655,39808
 H317,Caderousse CADEROUSSE - Caderousse Hydroelectric Power Station France,156,HROR,FR,44.09606,4.72329,25,47.5,,1591,39825
@@ -259,24 +258,24 @@ H318,Ottmarsheim OTTMARSHEIM - Ottmarsheim Hydroelectric Power Station France,15
 H319,Sällsjö,160,HDAM,SE,64.7506673477997,20.9527945518493,194,700,,3752,
 H320,Midskog Vermunt Hydroelectric Power Plant Austria - Midskog Hydroelectric Power Plant Sweden,155,HDAM,SE,63.2411585,15.2339025,27,53,,773,46239
 H321,Kembs,155,HROR,CH,47.6549559528999,7.51941590623,,,,5160,
-H322,Ilarionas ILARIONAS - Ilarionas Hydroelectric Power Plant Greece,154,HDAM,GR,40.0966,21.8039,130,520,72000,3000,42790
+H322,Ilarionas ILARIONAS - Ilarionas Hydroelectric Power Plant Greece,154,HDAM,GR,40.0966,21.8039,130,520,72e3,3e3,42790
 H323,Kembs KEMBS - Kembs Hydroelectric Power Station France,153.7,HROR,FR,47.655,7.52,27,13,,2944,39780
 H324,Sloy SLOY SLOY-1 - Loch Sloy Hydroelectric Power Plant UK,152.5,HDAM,GB,56.261512,-4.763588,56,35.679,,182,44140
 H325,Rhinau RHINAU - Rhinau Hydroelectric Power Station France,152,HROR,FR,48.28412,7.67728,18,20,,1679,39809
 H326,Forsmo Forsmo Hydroelectric Power Plant Sweden - Forsmo Hydroelectric Power Plant Sweden,155,HDAM,SE,63.266912,17.204441,25,4.8,,769,46238
 H327,SEDRUN,151,HDAM,CH,46.639999,8.761,,,,2581,
 H328,Mareges MAREGES - Mareges Hydroelectric Power Station France,150,HROR,FR,45.39171,2.36446,90,47,,1656,39738
-H329,SUGAG1 - Sugag (Tau) Hydroelectric Power Station Romania,150,HDAM,RO,45.776001,23.653999,78,21,,,40981
+H850,Cerna Principal,50,HDAM,RO,45.162083,22.732917,110,124,,,
 H330,Waldshut,150,HPHS,DE,47.61777,8.1926,160,1.35,480,1852,
-H331,Stratos,150,HDAM,GR,38.676,21.3233,26,80,1000,2979,42800
+H331,Stratos,150,HDAM,GR,38.676,21.3233,26,80,1e3,2979,42800
 H333,Pont ventoux,150,HPHS,IT,45.141299,6.962786,,,540,208,
 H334,Hackren,152,HDAM,SE,63.197917,13.50875,67,700,,,
 H336,Ramsele,150,HROR,SE,63.541981,16.45496,,,,2871,
-H337,Hpp galceag GALC1,148.7,HDAM,RO,45.5879,23.6279,,,,2933,40985
+H53,CheLotru_LOTR1_CA - Lotru-Ciunget Hydroelectric Power Plant Romania,510,HDAM,RO,45.446999,23.768,121,340,,,40977
 H339,Strasbourg STRASBOURG - Strasbourg Hydroelectric Power Station France,147.8,HROR,FR,48.52561,7.79456,22,30,,1697,39811
 H340,Rheinkraftwerk iffezheim Rheinkraftwerk Iffezheim,146,HROR,DE,48.83135,8.11216,,,,1871,
 H341,Saussaz SAUSSAZ,145.4,HROR,FR,45.20992,6.47663,,,,1896,
-H342,Dragan remeti Dragan (Remeti) Hydroelectric Power Station Romania - Dragan (Remeti) Hydroelectric Power Station Romania,144.140127388535,HDAM,RO,46.7889,22.7156,,,,3170,40986
+H8,ChePortileDeFier_PFIERI1_CA - Iron Gate I Hydroelectric Power Station Romania,1165.8000000000002,HDAM,RO,44.673,22.532,60,2100,,3705,40975
 H343,Sondrio UP_SONDRIO_1,144,HDAM,IT,46.286138,10.265884,,,,261,
 H344,Schärding neuhaus,96,HROR,AT,48.4355526,13.44094485,,,,533,
 H346,Seitakorva,144,HDAM,FI,66.314003,27.190001,25,1100,,,
@@ -299,7 +298,7 @@ H369,Tierfehd umwälzwerk,140,HPHS,CH,46.8787500802,8.98513704227,,,,1845,
 H370,Curbans CURBANS - Curbans Hydroelectric Power Station France,139,HDAM,FR,44.42078,6.02016,23,1.2,,1601,39714
 H371,Provvidenza UP_PROVVIDEN_1,139,HPHS,IT,42.511133,13.410606,,217,147200,214,
 H372,Pumpspeicherwerk rönkhausen Rönkhausen Pumped Storage Power Plant Germany - Rönkhausen Pumped Storage Power Plant Germany,138,HPHS,DE,51.22475,7.99281,265,1,590,1562,44354
-H373,Hpp ruieni RUIE1 - Ruieni Hydroelectric Power Station Romania,137.7,HDAM,RO,45.426,22.4757,125,96,,2974,40984
+H1365,Colibita,21,HDAM,RO,47.165417,24.877917,92,75.22,,,
 H374,Hourat Hourat Hydroelectric Power Station France - Hourat Hydroelectric Power Station France,137.229299363057,HDAM,FR,43.075,-0.42,,,,3090,39801
 H375,Gargnano UP_GARGNANO_1,137.2,HPHS,IT,45.703881,10.686097,,,,219,
 H377,Ceresole - Rosone,98.6,HDAM,IT,45.435348,7.418466,813,34,,258,
@@ -316,7 +315,7 @@ H387,Montpezat MONTPEZAT,131.8,HDAM,FR,44.69026,4.27215,,,,1885,
 H388,Stadsforsen,132,HDAM,SE,62.990118,16.65472,22,3.9,,786,
 H389,Torrejon,130.36,HPHS,ES,39.835871,-5.989523,,,,227,
 H390,Laval cere & Laval de Cere  1 & 2 Hydroelectric Power Station France - Laval de Cere  1 & 2 Hydroelectric Power Station France,130.318471337579,HDAM,FR,44.953,1.95,,,,3114,39799
-H391,Plastiras PLASTIRAS - Plastira Hydroelectric Power Plant Greece,130,HDAM,GR,39.2361,21.7462,83,400,392000,2962,42795
+H391,Plastiras PLASTIRAS - Plastira Hydroelectric Power Plant Greece,130,HDAM,GR,39.2361,21.7462,83,400,392e3,2962,42795
 H392,Vargfors Vargfors Hydroelectric Power Station Sweden - Vargfors Hydroelectric Power Station Sweden,131,HDAM,SE,65.0222165,19.682859,45,14.1,,774,46255
 H393,Cedegolo,130,HROR,IT,46.243788,10.457249,,,,233,
 H394,Valpelline UP_VALPELLIN_1,130,HDAM,IT,45.825196,7.333163,962,105.48,,268,
@@ -324,19 +323,19 @@ H395,Korsselbränna,130,HROR,SE,64.4674469999999,15.532646,20,7.5,,785,
 H398,FRIEIRA,130,HDAM,ES,42.155998,-8.193,,,,,
 H399,Passau ingling,86,HROR,AT,48.5534887,13.43444355,,,,699,
 H400,Pyhäkoski,129,HDAM,FI,64.85,26.1,,,,,
-H401,HE Vrla 1-4,128.6,HDAM,RS,42.707709,22.318567,,,198000,,
+H401,HE Vrla 1-4,128.6,HDAM,RS,42.707709,22.318567,,,198e3,,
 H402,Stalon Stalon G1 - Stalon Hydroelectric Power Station Sweden,130,HDAM,SE,64.945753,15.827496,199,665,,10,46247
 H404,SOUTELO 1,128,HDAM,ES,42.246487,-7.167071,,,,,
 H405,Avise UP_AVISE_1,126.5,HDAM,IT,45.700913,7.193059,972,2.345,,230,
-H406,Peshtera HPP_PESHTERA - Peshtera Hydroelectric Power Plant Bulgaria,126.369426751592,HDAM,BG,42.0135,24.2579,,302.3,,3155,42190
+H1118,Beli Iskar + Mala Tsarkva + Simeonovo HPP,31.3,HDAM,BG,42.1373,23.5691,1160,15.1,,,
 H407,Avignon AVIGNON VILLENEUVE - Avignon  Hydroelectric Power Station France,126,HROR,FR,43.97606,4.81721,27,34,,1572,39823
-H408,Entracque rovina UP_ETQ_ROVINA_1 - Entracque Chiotas-Piastra Pumped Storage Power Plant Italy,125,HPHS,IT,44.22573,7.39012,598,,2000,15,45433
+H408,Entracque rovina UP_ETQ_ROVINA_1 - Entracque Chiotas-Piastra Pumped Storage Power Plant Italy,125,HPHS,IT,44.22573,7.39012,598,,2e3,15,45433
 H409,Höljes Holjes Hydroelectric Power Station Sweden - Holjes Hydroelectric Power Station Sweden,128,HDAM,SE,60.9509664999999,12.545216,80,269.4,,2743,46243
 H410,Vilarinho furnas Vilarinho Furnas - G1 - Vilarinho das Furnas Hydroelectric Power Plant Portugal,125,HPHS,PT,41.763285,-8.20976499999999,,69.7,137900,2909,43548
 H412,Egglfing,124.4,HROR,DE,48.3202287,13.31740725,,,,4615,
 H413,Randens RANDENS,124.2,HROR,FR,45.52711,6.31996,,,,1894,
 H415,Walchensee,124,HDAM,DE,47.6313539999999,11.337054,200,1.324,,2709,
-H416,HPP_MOMINA_KLISU - Momina Klisura Hydroelectric Power Station Bulgaria,124,HDAM,BG,42.216999,23.966999,254,10.9194260761073,,3135,42176
+H615,Devin Devin Hydroelectric Power Plant Bulgaria - Devin Hydroelectric Power Plant Bulgaria,80,HDAM,BG,41.72052,24.42502,156,1.37,,3063,42189
 H418,COFRENTES HYDRO,124,HDAM,ES,39.247002,-1.094,,,,,
 H419,Combe d'avrieux COMBE DAVRIEUX 1 - Aussois + Combe d'Avrieux Hydroelectric Power Station France,123,HDAM,FR,45.21348,6.72053,50,3.94,,1571,39818
 H420,Amsteg,122.45,HROR,CH,46.7667596543,8.67292336359,,,,1972,
@@ -357,11 +356,11 @@ H435,Isolato spluga ISOLATO SPLUGA,117.6,HDAM,IT,46.443064,9.334613,,,,281,
 H436,Riva garda nuovo,117,HPHS,IT,45.883103,10.837735,,,,215,
 H437,Crestuma Crestuma - G1 - Crestuma-Lever Hydroelectric Power Plant Portugal,117,HROR,PT,41.0716,-8.486,,,,2925,43543
 H439,TIKVES G1 - Tikves Hydroelectric Power Plant Macedonia,116,HDAM,MK,41.404999,21.936001,113.5,309.6,,,42706
-H440,"Saint guillerme SAINT GUILLERME - St, Guillerme Hydroelectric Power Station France",116,HDAM,FR,45.03048,6.07914,136,51,,1628,39788
-H441,Platanovrysi PLATANOVRYSI - Platanovrisi Hydroelectric Power Plant Greece,116,HDAM,GR,41.3355,24.4621,95,57,11000,2963,42796
+H440,Saint guillerme SAINT GUILLERME - St. Guillerme Hydroelectric Power Station France,116,HDAM,FR,45.03048,6.07914,136,51,,1628,39788
+H441,Platanovrysi PLATANOVRYSI - Platanovrisi Hydroelectric Power Plant Greece,116,HDAM,GR,41.3355,24.4621,95,57,11e3,2963,42796
 H442,Formin HE Formin 1 - Formin Hydroelectric Poqwer Plant Slovenia,116,HROR,SI,46.40251,16.0337399999999,49,,,1617,44865
 H443,Hermillon HERMILLON,115.6,HROR,FR,45.28424,6.35799,,,,1868,
-H446,Hpp bradisoru BRAD - Bradisor Hydroelectric Power Station Romania,114.8,HDAM,RO,45.3549,24.1053,,39,,2919,40979
+H1150,Costeshti Stinka / Stanca,30,HDAM,RO,47.84125,27.225417,43,1290,,,
 H448,Zlatoličje Zlatolicje Hydroelectric Poqwer Plant Slovenia - Zlatolicje Hydroelectric Poqwer Plant Slovenia,114,HROR,SI,46.44793,15.7869299999999,54,4.6,,1716,44864
 H450,Älvkarleby Alvkarleby Hydroelectric Power Plant Sweden - Alvkarleby Hydroelectric Power Plant Sweden,125,HDAM,SE,60.5636805,17.44205,,,,766,44239
 H451,GRABOVICA - Grabovica Hydroelectric Power Plant Bosnia and Herzegovina,114,HDAM,BA,43.587002,17.719,,,,,44771
@@ -381,25 +380,25 @@ H471,Pied borne PIED DE BORNE - Pied-de-Borne Hydroelectric Power Station France
 H473,Ering,73,HROR,AT,48.29207045,13.1589383,,,,627,
 H474,Sablons PEAGE DE ROUSSILLON - Sablons Hydroelectric Power Station France,108.171784259485,HROR,FR,45.3069999999999,4.797,,,,3180,39792
 H475,Cabril Cabril - G1 - Cabril Hydroelectric Power Plant Portugal,108,HDAM,PT,39.91727,-8.13243999999999,132,615,339300,2920,43549
-H476,Asomata ASOMATA - Asomata Hydroelectric Power Plant Greece,108,HDAM,GR,40.4744,22.2439,52,3,1000,2916,42789
-H477,CANELLES,108,HDAM,ES,41.958,0.634,49,679,289000,,
+H476,Asomata ASOMATA - Asomata Hydroelectric Power Plant Greece,108,HDAM,GR,40.4744,22.2439,52,3,1e3,2916,42789
+H477,CANELLES,108,HDAM,ES,41.958,0.634,49,679,289e3,,
 H478,Oschenik innerfragant Innerfragant Pumped Storage Power Plant Austria - Innerfragant Pumped Storage Power Plant Austria,108,HPHS,AT,47.1374819,12.3273397,110,30,,2902,45205
 H482,Krokströmmen Krokstrommen Hydroelectric Power Plant Sweden - Krokstrommen Hydroelectric Power Plant Sweden,113,HROR,SE,63.5322,17.2946,,,,2746,45670
-H486,Hpp_kardzhali,106,HDAM,BG,41.6334,25.34,93,540,,2938,42192
+H496,HPP_IVAILOVGRAD 1/2/3 - Ivaylovgrad Hydroelectric Power Plant Bulgaria,104,HDAM,BG,41.584,26.108,52,157,,3092,42194
 H487,KW Laufenburg,106,HROR,AT,47.662998,13.607,,,,,
 H488,Isohaara,106,HDAM,FI,65.797083,24.549583,24,80,,,
 H489,Nämforsen Namforsen Hydroelectric Power Station Sweden - Namforsen Hydroelectric Power Station Sweden,113,HDAM,SE,64.0448895,17.6922204999999,22,,,767,46250
-H493,Hpp tismana TISM - Tismana (Motru) Hydroelectric Power Station Romania,104.8,HDAM,RO,45.0444,22.9472,48,4.8,,2983,40982
+H1036,Daesti,37,HDAM,RO,45.17875,24.369583,29,11.2,,,
 H494,Bistrica Hydroelectric Power Plant Serbia - Bistrica Hydroelectric Power Plant Serbia,104,HDAM,RS,43.5223,19.742,43,7.6,,,44127
 H495,Aston ASTON - Aston Hydroelectric Power Station France,104,HROR,FR,42.77668,1.67671,37,0.8,,1570,39716
-H496,HPP_IVAILOVGRAD 1/2/3 - Ivaylovgrad Hydroelectric Power Plant Bulgaria,104,HDAM,BG,41.584,26.108,52,157,,3092,42194
+H486,Hpp_kardzhali,124,HDAM,BG,41.63253,25.33801,93,540,,2938,42192
 H497,Torpshammar,110,HDAM,SE,62.472822,16.325252,26,2.5,,787,
 H498,Passy PASSY,104,HROR,FR,45.91642,6.72592,,,,1890,
 H500,Centrale di Cavergno,104,HDAM,CH,46.349998,8.6,489,333,,2077,
 H501,St etienne cantales ST ETIENNE CANTALES - Saint Etienne Cantales Hydroelectric Power Station France,103.3,HDAM,FR,44.94516,2.21906,69,133,,1611,39739
 H502,Tuggen,105,HDAM,SE,64.479423,18.878073,27,10.8,,788,
 H505,Verbois Verbois Hydroelectric Power Plant Switzerland - Verbois Hydroelectric Power Plant Switzerland,102.8,HROR,CH,46.1913941292,6.02735734063,,,,1793,45459
-H506,CIJARA 1,102,HDAM,ES,39.373001,-5.016,46,1505,296000,,
+H506,CIJARA 1,102,HDAM,ES,39.373001,-5.016,46,1505,296e3,,
 H509,Olivone,102,HDAM,CH,46.5396795136,8.94911144856,,,,2434,
 H510,Rheinfelden,101.8,HROR,CH,47.5688531592,7.8129757269,,,,1931,
 H511,Seled glorenza SELED GLORENZA,101.6,HDAM,IT,46.6879187,10.5465492,,,,242,
@@ -422,7 +421,7 @@ H533,Langbjörn Langbjorn Hydroelectric Power Plant Sweden - Langbjorn Hydroelec
 H534,Cogolo,98,HROR,IT,46.362907,10.672964,,,,3366,
 H535,Montahut Montahut Hydroelectric Power Station France - Montahut Hydroelectric Power Station France,97.7388535031847,HDAM,FR,43.571,2.94,,,,3136,39820
 H537,Zvornik Hydroelectric Power Plant Serbia - Zvornik Hydroelectric Power Plant Serbia,96,HROR,RS,44.3679,19.1067,,,,,44124
-H538,Nentilla Nentilla Hydroelectric Power Station France - Nentilla Hydroelectric Power Station France,95.764331210191,HDAM,FR,42.772,2.213,,,,3142,39719
+H538,Nentilla Nentilla Hydroelectric Power Station France - Nentilla Hydroelectric Power Station France,54,HDAM,FR,42.772,2.213,,,,3142,39719
 H540,Boazzo,95,HDAM,IT,45.947196,10.62107,,,,3561,
 H543,Varazdin Varazdin - Varazdin Hydroelectric Power Plant Croatia Croatia,94,HDAM,HR,46.3479,16.2684,21.9,2.8,,3216,44828
 H544,Portillon le Portillon (Le) Hydroelectric Power Station France - Portillon (Le) Hydroelectric Power Station France,93.7898089171974,HDAM,FR,42.733,0.552999999999999,,,,3163,39766
@@ -430,7 +429,7 @@ H545,Mikšová Miskova Hydroelectric Power Plant Slovakia - Miskova Hydroelectri
 H546,Ackersand,93.6,HROR,CH,46.2400050685,7.874575927845,,,,1945,
 H549,Ossauskoski,93,HDAM,FI,66.155998,25.125,24,49.5,,,
 H550,Montamara,92.42,HPHS,ES,42.673534,1.23513799999999,,,,224,
-H551,Hospitalet l' Hospitalet (L') Hydroelectric Power Station France - Hospitalet (L') Hydroelectric Power Station France,92.1114649681528,HDAM,FR,42.588,1.797,,,,3109,39806
+H551,Hospitalet l' Hospitalet (L') Hydroelectric Power Station France - Hospitalet (L') Hydroelectric Power Station France,104,HDAM,FR,42.588,1.797,,,,3109,39806
 H552,Leitzach,92,HROR,DE,47.873938,11.8709899999999,,,,1843,
 H554,Vernayaz cff,92,HDAM,CH,46.1332077915,7.03598337006999,,,,2686,
 H556,Brens-Virigin Hydroelectric Power Station France - Brens-Virigin Hydroelectric Power Station France,90,HDAM,FR,45.725,5.698,16,16,,,39816
@@ -455,7 +454,7 @@ H578,Grundsjoarna,88,HDAM,SE,62.532083,13.092083,44,240,,,
 H580,Orlu Orlu Hydroelectric Power Station France - Orlu Hydroelectric Power Station France,87.6687898089172,HDAM,FR,42.6889999999999,1.912,,,,3149,39717
 H581,Edling Edling-KW - Edling Hydroelectric Power Plant Austria,87,HROR,AT,46.628959,14.701371,,,,1745,45190
 H582,Castelbello,87,HROR,IT,46.628316,10.906664,,,,3341,
-H583,SUSQUEDA 1,86,HDAM,ES,41.983002,2.534,122.8,233,78000,,
+H583,SUSQUEDA 1,86,HDAM,ES,41.983002,2.534,122.8,233,78e3,,
 H584,Mittan,88,HROR,SE,62.455954,13.197702,,,,2863,
 H585,Ardnacrucha production unit Ardnacrusha Unit 1 - Ardnacrusha Hydroelectric Power Plant Ireland,86,HROR,IE,52.7056,-8.6128,,,,836,43939
 H586,Walgauwerk Walgau Hydroelectric Power Plant Austria - Walgau Hydroelectric Power Plant Austria,86,HROR,AT,47.198858,9.669638,,,,1799,45214
@@ -473,35 +472,35 @@ H600,BARAZAR 1,83,HDAM,ES,43.009998,-2.685,,,,,
 H601,REMOLINA 1,83,HDAM,ES,42.917,-5.05,,,,,
 H602,Vanttauskoski,83,HDAM,FI,66.36875,26.689583,36,45,,,
 H603,Niedzica Niedzica Pumped Storage Power Plant Poland - Niedzica Pumped Storage Power Plant Poland,82.8,HPHS,PL,49.4099645,20.3267659,,,600,2904,42476
-H604,Tsankov,82,HDAM,BG,41.822182,24.442048,135.4,111,,,
+H416,HPP_MOMINA_KLISU - Momina Klisura Hydroelectric Power Station Bulgaria,120,HDAM,BG,42.23193,23.94938,254,0.2,,3135,42176
 H605,Hopflauenen trift Hopflauenen Hydroelectric Power Plant Switzerland - Hopflauenen Hydroelectric Power Plant Switzerland,81.6,HDAM,CH,46.7151134139999,8.27751698218999,,,,1759,45445
 H606,Silvon SILVON 1 - Silvon Hydroelectric Power Plant Spain,81.5399999999999,HDAM,ES,43.387117,-6.825233,,,,181,45886
 H607,Gervans Gervans Hydroelectric Power Station France - Gervans Hydroelectric Power Station France,81.1288381946139,HROR,FR,45.136,4.806,,,,3079,39760
 H608,Kraftwerk Oschenik,81,HPHS,AT,46.987999,13.106,,,,,
 H609,LAS ONDINAS 1,81,HDAM,ES,42.915001,-6.331,,,,,
-H610,Studen kladenets Studen Kladenets Hydroelectric Power Plant Bulgaria - Studen Kladenets Hydroelectric Power Plant Bulgaria,80.9554140127388,HDAM,BG,41.6195,25.6415,65.8,388,,3199,42193
+H186,HPP_SESTRIMO - Sestrimo Hydroelectric Power Plant Bulgaria,240,HDAM,BG,42.233002,23.950001,539,0.42,,3192,42174
 H611,Belver,80.7,HROR,PT,39.28,-7.59,,,,,
 H612,Radag,80.62,HROR,DE,47.58629,8.13207,,,,5906,
 H613,Kozjak Hydroelectric Power Plant Macedonia - Kozjak Hydroelectric Power Plant Macedonia,80,HDAM,MK,41.8792,21.1921,126.1,260,,,42705
 H614,SILVON 1 - Silvon Hydroelectric Power Plant Spain,80,HDAM,ES,43.353001,-6.871,94.6,96.48,,,
-H615,Devin Devin Hydroelectric Power Plant Bulgaria - Devin Hydroelectric Power Plant Bulgaria,80,HROR,BG,41.7201,24.425,,,,3063,42189
+H1281,Kalin + Kamenitsa + Pastra + Rila HPP,24.2,HDAM,BG,42.07,23.13,1800,2.2,,,
 H616,"Rosegg st, jakob Rosegg-St, Jakob-KW - Rosegg-St, Jakob Hydroelectric Power Plant Austria",80,HROR,AT,46.569737,14.026774,,,,174,45186
 H617,Hällby,84,HDAM,SE,63.879154,17.21992,,,,2844,
 H618,Gaudalami,80,HPHS,IT,37.9937488,13.2882915,,,,3233,
 H619,Baschi,80,HDAM,IT,42.672832,12.21796,,,,3285,
-H620,Pirot Hydroelectric Power Plant Serbia - Pirot Hydroelectric Power Plant Serbia,80,HDAM,RS,43.1579,22.6154,,180,75000,,44123
+H620,Pirot Hydroelectric Power Plant Serbia - Pirot Hydroelectric Power Plant Serbia,80,HDAM,RS,43.1579,22.6154,,180,75e3,,44123
 H621,ERISTE 1,80,HDAM,ES,42.583,0.483,,,,,
 H622,Bleiloch,79.8,HPHS,DE,50.52438482,11.71438694,46,5.6,572,1833,
 H623,Wendefurth Wendefurth Pumped Storage Power Plant Germany - Wendefurth Pumped Storage Power Plant Germany,79.7,HPHS,DE,51.74223,10.91879,126,1.97,551,1564,44353
 H624,Schwabeck Schwabeck-KW - Schwabeck Hydroelectric Power Plant Austria,79,HROR,AT,46.658193,14.873028,,,,179,45191
 H625,Jenbach,79,HROR,AT,47.393249,11.788647,,,,1944,
 H626,Schwabeck-KW - Schwabeck Hydroelectric Power Plant Austria,79,HDAM,AT,46.658001,14.873,,,,,
-H627,Krichim Krichim Hydroelectric Power Plant Bulgaria - Krichim Hydroelectric Power Plant Bulgaria,78.9808917197452,HDAM,BG,41.99178,24.468033,172,20.26,,3108,42187
+H2089,Klisoura HPP,3.5,HDAM,BG,43.16859,23.15498,124.6,0.05,,,
 H628,Svarthalsforsens,80,HDAM,SE,63.028896,16.5693579999999,,,,2882,
 H629,Bjurfors nedre krv,78,HDAM,SE,60.0650492615305,15.9236633777618,,,,793,
-H631,IZNAJAR 1,77,HDAM,ES,37.276001,-4.387,104.4,981,279000,,
+H631,IZNAJAR 1,77,HDAM,ES,37.276001,-4.387,104.4,981,279e3,,
 H632,CASTREJON 1,77,HDAM,ES,39.852001,-4.474,,,,,
-H633,PORTODEMOUROS 1,76,HDAM,ES,42.855,-8.189,48.2,297,39000,,
+H633,PORTODEMOUROS 1,76,HDAM,ES,42.855,-8.189,48.2,297,39e3,,
 H634,Cakovec cakovec - Cakovec Hydroelectric Power Plant Croatia Croatia,76,HDAM,HR,46.3113,16.4945,17.5,10.5,,3042,44829
 H635,Dubrava Dubrava - Dubrava Hydroelectric Power Plant Croatia Croatia,76,HDAM,HR,46.3205,16.7489,17.5,16.6,,3066,44830
 H636,Sautet le Sautet (Le) Hydroelectric Power Station France - Sautet (Le) Hydroelectric Power Station France,75.0318471337579,HDAM,FR,44.817,5.90799999999999,,,,3187,39786
@@ -527,11 +526,10 @@ H659,Banja / Banjë,72,HDAM,AL,40.96,20.068,80,152,62267,,
 H661,Eguzon Eguzon Hydroelectric Power Station France - Eguzon Hydroelectric Power Station France,71.0828025477707,HDAM,FR,46.455,1.613,,,,3069,39782
 H662,Mottec,71,HPHS,CH,46.153036238,7.61998842796999,,,,2399,
 H663,Schiffenen,71,HDAM,CH,46.8827252047,7.19421903622,47,59,,2568,
-H664,Ladonas LADONAS,70,HDAM,GR,37.75,21.8833333,,,25000,3526,
+H664,Ladonas LADONAS,70,HDAM,GR,37.75,21.8833333,,,25e3,3526,
 H667,Doblar HE Doblar 4 - Doblar II Hydroelectric Poqwer Plant Slovenia,70,HROR,SI,46.11382,13.68811,,,,1742,44869
 H668,Salanfe,70,HDAM,CH,46.1464058483,7.02889676253,52,40,,6035,
 H670,Tinizong,69.5,HDAM,CH,46.5825064851,9.61064835764,,,,2643,
-H671,Sardintza,69.2,HDAM,BG,41.7329,24.0199,64,71.2,,,
 H672,Mallemort Mallemort Hydroelectric Power Station France - Mallemort Hydroelectric Power Station France,68.2834388138001,HROR,FR,43.715,5.205,,,,3127,39734
 H673,Salon Salon Hydroelectric Power Station France - Salon Hydroelectric Power Station France,68.2834388138001,HROR,FR,43.633,5.114,,,,3184,39737
 H674,Valparaiso,68,HPHS,ES,41.993,-6.271,358.3,169,,,
@@ -548,8 +546,8 @@ H684,Torrite,67,HDAM,IT,44.12125,10.404598,,,,3826,
 H685,Pinet Hydroelectric Power Station France - Pinet Hydroelectric Power Station France,66.5,HDAM,FR,44.07,2.805,45,10.4,,,39732
 H686,Wägital rempen,66.24,HPHS,CH,47.1383731791,8.89757736058999,,,,2513,
 H687,PRADA 1,66,HDAM,ES,42.311001,-7.041,664.8,122,,,
-H688,MEDIANO 1,66,HDAM,ES,42.317001,0.2,92,436,267000,,
-H689,Aleko Aleko Hydroelectric Power Plant Bulgaria - Aleko Hydroelectric Power Plant Bulgaria,66,HROR,BG,42.1194,24.289,,,,3009,42191
+H688,MEDIANO 1,66,HDAM,ES,42.317001,0.2,92,436,267e3,,
+H1327,Kokalyane HPP,22.4,HDAM,BG,42.58398,23.42819,98.5,2.7,,,
 H690,Kraftwerk Wurten,66,HDAM,AT,46.987999,13.106,502,2.58,,,
 H691,Ulza,66,HDAM,AL,41.682917,19.89625,66,240,,,
 H694,Croix Croix Hydroelectric Power Plant Switzerland - Croix Hydroelectric Power Plant Switzerland,66,HDAM,CH,46.3081744934,7.43410089912,15,0.09,,1741,45465
@@ -566,9 +564,9 @@ H706,Boden Boden Hydroelectric Power Station Sweden - Boden Hydroelectric Power 
 H707,Näverede,64,HDAM,SE,63.223555,15.320856,,,,810,
 H708,Lasa,64,HDAM,IT,46.616614,10.700159,,,,3531,
 H710,Raasakka,64,HROR,FI,65.323056,25.358333,,,,,
-H711,SALIME 1 - Salime Hydroelectric Power Plant Spain,63,HDAM,ES,43.237,-6.847,128,133,52000,175,45884
-H712,SALIME 3 - Salime Hydroelectric Power Plant Spain,63,HDAM,ES,43.237,-6.847,128,133,52000,175,45884
-H714,Canicada Canicada - Canicada Hydroelectric Power Plant Portugal,62,HDAM,PT,41.653,-8.231,76,144.4,32000,3045,43545
+H711,SALIME 1 - Salime Hydroelectric Power Plant Spain,63,HDAM,ES,43.237,-6.847,128,133,52e3,175,45884
+H712,SALIME 3 - Salime Hydroelectric Power Plant Spain,63,HDAM,ES,43.237,-6.847,128,133,52e3,175,45884
+H714,Canicada Canicada - Canicada Hydroelectric Power Plant Portugal,62,HDAM,PT,41.653,-8.231,76,144.4,32e3,3045,43545
 H715,Rebnisjaure rebnis krv,64,HDAM,SE,66.4990459999999,17.107241,19,740,,2872,
 H716,Solleftea,62,HDAM,SE,63.167911,17.277051,,,,2879,
 H717,Ponte gardena,62,HROR,IT,46.597121,11.530879,,,,3700,
@@ -589,7 +587,7 @@ H739,Chiavenna,60,HROR,IT,46.307194,9.395236,,,,3356,
 H740,Vinadio,60,HROR,IT,44.309025,7.176025,,,,3875,
 H741,Hauterive,60,HDAM,CH,46.7689506687,7.1275763544,,,,2533,
 H742,Mostarsko Blato Hydroelectric Power Plant Bosnia and Herzegovina - Mostarsko Blato Hydroelectric Power Plant Bosnia and Herzegovina,60,HDAM,BA,43.2989,17.794,,0.96,,,44809
-H743,Teshel Teshel Hydroelectric Power Plant Bulgaria - Teshel Hydroelectric Power Plant Bulgaria,60,HDAM,BG,41.6428,24.153,341,447.13,,3206,42188
+H1899,Koprinka HPP (Kaplan),7,HDAM,BG,42.6125,25.3198,24,142.4,,,
 H748,Peruca Peruca - Peruca Hydroelectric Power Plant Croatia,60,HDAM,HR,43.7951,16.596800000000002,47,541,,3154,44831
 H749,Lucendro,60,HDAM,CH,46.5263515901,8.59770900919,73,25,,5291,
 H750,Hohenwarte,59.8,HPHS,DE,50.61433423,11.49212837,56,3.28,408,4989,
@@ -602,7 +600,6 @@ H756,Vilar tabuaco Vilar-Tabuaco Hydroelectric Power Plant Portugal - Vilar-Tabu
 H757,Edensforsen,60,HROR,SE,63.690491,16.872475,,,,2835,
 H758,Satriano,58,HROR,IT,38.666883,16.481205,,,,3759,
 H759,Hieflau-KW,58,HDAM,AT,47.602001,14.764,,,,,
-H760,Ardino,58,HDAM,BG,41.6871,25.1526,84,74.6,,,
 H762,Wassen,58,HROR,CH,46.7156913962,8.61014697239,,,,2713,
 H763,Utanen,58,HROR,FI,64.75,26.416667,15.7,,,,
 H764,Fala HE Fala 1 - Fala Hydroelectric Poqwer Plant Slovenia,57.9,HROR,SI,46.55874,15.44511,34,,,1746,44862
@@ -637,17 +634,17 @@ H799,EUME 1,54,HDAM,ES,43.403999,-8.043,161.1,123,,,
 H800,Paradela Paradela - Paradela Hydroelectric Power Plant Portugal,54,HDAM,PT,41.7686,-7.9504,110,158.2,222500,3221,43546
 H802,Sambuco peccia,54,HPHS,CH,46.4156418664,8.61147407012,130,64,,2452,
 H803,Unteraa lungerersee,54,HDAM,CH,46.8214351941,8.1744623486,,,,2356,
-H804,Gogosu,54,HDAM,RO,44.622793,22.641357,30,800,,,
+H342,Dragan remeti Dragan (Remeti) Hydroelectric Power Station Romania - Dragan (Remeti) Hydroelectric Power Station Romania,144.140127388535,HDAM,RO,46.7889,22.7156,,,,3170,40986
 H805,Kattstrupeforsen,56,HDAM,SE,63.326439,14.579856,,,,803,
 H806,Kachlet,53.7,HROR,DE,48.5797112,13.4082738,,,,2259,
 H807,SALAS,53,HDAM,ES,41.924,-7.943,333.2,87,,,
 H808,LA BARCA 1,53,HDAM,ES,43.352001,-6.201,,,,,
 H809,GUIJO DE GRANADILLA,53,HDAM,ES,40.18,-6.142,,,,,
 H810,Draganesti,53,HDAM,RO,44.177917,24.48375,34,76,,,
+H907,Dragasani,45,HDAM,RO,44.682917,24.292083,32,40,,,
 H811,Frunzaru,53,HDAM,RO,44.045417,24.57125,30,96,,,
-H812,Ipotesti,53,HDAM,RO,44.26625,24.400417,31,110,,,
-H813,Izbiceni,53,HDAM,RO,43.81625,24.69625,29,74,,,
-H814,Rusanesti,53,HDAM,RO,43.920417,24.625417,29,78,,,
+H1163,Galbeni,29,HDAM,RO,46.457917,26.952083,24,38.8,,,
+H804,Gogosu,54,HDAM,RO,44.622793,22.641357,30,800,,,
 H815,Jouques Jouques Hydroelectric Power Station France - Jouques Hydroelectric Power Station France,52.733744826499,HROR,FR,43.681,5.656,,,,3096,39733
 H817,Guijo granadilla,52.21,HPHS,ES,40.180133,-6.142519,,,,222,
 H818,Navazo,52.09,HDAM,CH,46.2813172873,7.54633103323999,,,,5587,
@@ -673,8 +670,8 @@ H843,Montjovet,50,HROR,IT,45.707963,7.67411,,,,3607,
 H844,Pieve vergonte,50,HROR,IT,46.012976,8.260816,,,,3686,
 H845,Verampio,50,HROR,IT,46.210781,8.32061399999999,,,,3864,
 H849,Montta,50,HROR,FI,64.8,26,,,,,
-H850,Cerna Principal,50,HDAM,RO,45.162083,22.732917,110,124,,,
-H851,Strejesti,50,HDAM,RO,44.537083,24.325417,33,225,,,
+H908,Govora,45,HDAM,RO,45.012083,24.29625,26,18.5,,,
+H1522,Hateg,16,HDAM,RO,45.59125,22.95875,32,12.5,,,
 H852,Ilanz stufe panix pigniu,49.5,HDAM,CH,46.7747637593999,9.19522557929999,53,7.3,,2234,
 H853,Bancairon Bancairon Hydroelectric Power Station France - Bancairon Hydroelectric Power Station France,49.3630573248407,HDAM,FR,44.003,7.137,,,,3017,39702
 H854,Saint dalmas Saint Dalmas Hydroelectric Power Station France - Saint Dalmas Hydroelectric Power Station France,49.3630573248407,HDAM,FR,44.047,7.586,,,,3060,39703
@@ -702,19 +699,18 @@ H876,Brežice,47.4,HROR,SI,45.89888,15.5882,,,,4239,
 H877,Bregnier cordon Bregnier-Cordon Hydroelectric Power Station France - Bregnier-Cordon Hydroelectric Power Station France,47.3251556135248,HROR,FR,45.6539999999999,5.605,,,,3036,39789
 H878,Schwerin süd,47.1,HROR,DE,50.22056887475,10.080005764545,,,,6108,
 H880,Bussolengo,47,HROR,IT,45.469186,10.850584,,,,3318,
-H881,Madan,47,HDAM,BG,41.49868,24.93959,75,72.1,,,
 H882,Stensele,50,HDAM,SE,65.054381,17.231956,,,,821,
 H883,Eglisau Eglisau Hydroelectric Power Plant Switzerland - Eglisau Hydroelectric Power Plant Switzerland,46.9,HROR,CH,47.5749161402,8.47332208664,,,,1805,45462
 H884,Rheinfelden,46.7,HROR,DE,47.56990573,7.810113464,,,,2518,
 H885,Kraljevac Kraljevac - Kraljevac Hydroelectric Power Plant Croatia,46.4,HROR,HR,43.4307,16.8849,,,,3107,44836
-H886,Batak Batak Hydroelectric Power Plant Bulgaria - Batak Hydroelectric Power Plant Bulgaria,46.2038216560509,HDAM,BG,41.922589,24.1694,421,58.17,,3020,42185
-H887,GRADO I 1,46,HDAM,ES,42.164001,0.241,63.5,300,69000,,
+H627,Krichim + Vacha I + Vacha II Hydro Power Plant,101,HDAM,BG,42.02719,24.47085,172,20.26,,3108,42187
+H887,GRADO I 1,46,HDAM,ES,42.164001,0.241,63.5,300,69e3,,
 H888,Frykfors Fryken,47,HDAM,SE,59.54375,13.299583,20,182,,,
 H889,Palazzo,46,HROR,IT,39.799101,15.90748,,,,3662,
 H890,Caffaro,46,HROR,IT,45.8207845069398,10.527069568634,,,,3696,
 H891,Quart,38.5,HROR,IT,45.740261,7.46660399999999,,,,3712,
 H893,Gondo Gondo Hydroelectric Power Plant Switzerland - Gondo Hydroelectric Power Plant Switzerland,46,HROR,CH,46.196009215,8.1506042231,,,,1753,45468
-H894,Ramnicu Valcea,46,HDAM,RO,45.120417,24.375417,34,19,,,
+H446,Hpp bradisoru BRAD - Bradisor Hydroelectric Power Station Romania,114.8,HDAM,RO,45.3549,24.1053,,39,,2919,40979
 H895,Skallböle,46,HDAM,SE,62.364099,16.962161,,,,818,
 H896,Küblis,45.6,HROR,CH,46.913974185,9.78202924909,,,,2309,
 H897,Roßhaupten,45.5,HDAM,DE,47.651451,10.735525,35.4,168,,6009,
@@ -725,10 +721,10 @@ H902,Alzwerke,45,HROR,DE,48.1769,12.84045,,,,1968,
 H903,"Pont st, martin",45,HROR,IT,45.595361,7.79451399999999,,,,3576,
 H904,Lochay,45,HROR,GB,56.509998,-4.228,,,,,
 H906,Kolsi,45,HROR,FI,61.283333,22.333333,,,,,
-H907,Dragasani,45,HDAM,RO,44.682917,24.292083,32,40,,,
-H908,Govora,45,HDAM,RO,45.012083,24.29625,26,18.5,,,
-H909,Racaciuni,45,HDAM,RO,46.337083,27.04625,29,103.7,,,
-H910,Tarnita,45,HDAM,RO,46.727083,23.29625,97,74,,,
+H337,Hpp galceag GALC1,148.7,HDAM,RO,45.5879,23.6279,,,,2933,40985
+H204,Hpp mariselu / Mărișelu ,221,HDAM,RO,46.6679,23.059,92,212,,2953,40987
+H373,Hpp ruieni RUIE1 - Ruieni Hydroelectric Power Station Romania,137.7,HDAM,RO,45.426,22.4757,125,96,,2974,40984
+H230,Hpp stejaru STEJ1 - Bicaz-Stejaru Hydroelectric Power Station Romania,208.4,HDAM,RO,46.9386,26.1029,127,1230,,2978,40978
 H911,Mühleberg Muehleberg Hydroelectric Power Plant Switzerland - Muehleberg Hydroelectric Power Plant Switzerland,44.59,HROR,CH,46.9691475017,7.28449397373999,,,,1776,45221
 H912,Böckstein,44.5,HDAM,AT,47.7994056435064,13.0439901351929,,,,2035,
 H913,Golinhac Golinhac Hydroelectric Power Station France - Golinhac Hydroelectric Power Station France,44.4267515923566,HDAM,FR,44.606,2.605,,,,3081,39722
@@ -740,7 +736,7 @@ H918,Sistema Alto Flumendosa Bau Muggeris Sa Teula,45.599999999999994,HDAM,IT,39
 H919,AET Leventina,44,HDAM,CH,46.530998,8.685,,,,,
 H920,Kublis Hydroelectric Powerplant Switzerland - Kublis Hydroelectric Powerplant Switzerland,44,HROR,CH,46.913689,9.782,,,,,46287
 H922,Ritom,44,HDAM,CH,46.5172567651,8.67531756408,,,,2526,
-H923,Beresti,44,HDAM,RO,46.187083,27.18375,29,120,,,
+H493,Hpp tismana TISM - Tismana (Motru) Hydroelectric Power Station Romania,104.8,HDAM,RO,45.0444,22.9472,48,4.8,,2983,40982
 H924,Madunice Madunice Hydroelectric Power Plant Slovakia - Madunice Hydroelectric Power Plant Slovakia,43.2,HROR,SK,48.48843,17.7940799999999,,,,1817,42650
 H925,DOIRAS 1 - Doiras Hydroelectric Power Plant Spain,43,HDAM,ES,43.386002,-6.825,94.6,96.48,,,
 H927,Staning,43,HROR,AT,48.098607,14.468763,,,,547,
@@ -758,11 +754,11 @@ H940,Untra,42,HDAM,SE,60.56421,17.439184,,,,2886,
 H941,Signayes,42,HROR,IT,45.73736,7.31660099999999,,,,3768,
 H947,Tierfehd hintersand,42,HROR,CH,46.8761153436,8.98702934899,,,,2641,
 H948,"LAFORTUNADA-CINCA GR,1",42,HDAM,ES,42.570999,0.202,,,,,
-H949,Siriu,42,HDAM,RO,45.495417,26.250417,122,155,,,
+H213,Hpp vidraru CORB12 - Vidraru Hydroelectric Power Station Romania,220,HDAM,RO,45.3667,24.6307,166,469,,2989,40980
 H950,Ocana Ocana Hydroelectric Power Station France - Ocana Hydroelectric Power Station France,41.9585987261146,HDAM,FR,41.946,8.935,,,,3145,39754
 H951,Rupperswil auenstein,41.74,HROR,CH,47.411796663,8.1147717897,,,,2540,
 H952,Castelnau lassouts Castelnau-Lassouts Hydroelectric Power Station France - Castelnau-Lassouts Hydroelectric Power Station France,41.4649681528662,HDAM,FR,44.505,2.87399999999999,,,,3049,39729
-H953,Pintado,41.232,HPHS,ES,37.93753,-5.780025,132.7,213,77000,225,
+H953,Pintado,41.232,HPHS,ES,37.93753,-5.780025,132.7,213,77e3,225,
 H954,Tet (La) Hydroelectric Power Station France - Tet (La) Hydroelectric Power Station France,41.1,HDAM,FR,42.553,2.267,25,17.5,,,39805
 H955,Pracana Pracana - Pracana Hydroelectric Power Plant Portugal,41,HDAM,PT,39.5649,-7.8123,60,95.6,9800,3165,43576
 H956,Malta unterstufe Malta-Unterstufe-KW - Malta Unterstufe (Moellbruecke) Hydroelectric Power Plant Austria,41,HDAM,AT,46.8332,13.360071,,0.5,,1769,44819
@@ -774,7 +770,7 @@ H962,Djale Dale - Djale Hydroelectric Power Plant Croatia,40.8,HROR,HR,43.5745,1
 H963,Coiselet Coiselet Hydroelectric Power Station France - Coiselet Hydroelectric Power Station France,40.4777070063694,HDAM,FR,46.294,5.592,,,,3056,39700
 H964,Quinson Quinson Hydroelectric Power Station France - Quinson Hydroelectric Power Station France,40.4777070063694,HDAM,FR,43.699,6.051,,,,3167,39711
 H966,Gour Noir (Le) Hydroelectric Power Station France - Gour Noir (Le) Hydroelectric Power Station France,40,HDAM,FR,45.071,2.067,43,5.2,,,39747
-H967,TRANCO DE BEAS 1,40,HDAM,ES,38.174999,-2.796,94,498,175000,,
+H967,TRANCO DE BEAS 1,40,HDAM,ES,38.174999,-2.796,94,498,175e3,,
 H968,Caldeirao Caldeirao - Caldeirao Hydroelectric Power Plant Portugal,40,HDAM,PT,40.5316,-7.3297,39,3.5,1500,3043,43577
 H971,Ternberg,40,HROR,AT,47.941095,14.35266,,,,556,
 H972,Batfors,42,HDAM,SE,64.832573,20.223732,,,,792,
@@ -804,7 +800,7 @@ H1001,Pracomune,38.5,HPHS,IT,46.5478079,11.0070771,,,,3234,
 H1002,Lipovec Lipovec Hydroelectric Power Plant Slovakia - Lipovec Hydroelectric Power Plant Slovakia,38.4,HROR,SK,49.13197,18.9114,,,,1815,42645
 H1003,Sučany Sucany Hydroelectric Power Plant Slovakia - Sucany Hydroelectric Power Plant Slovakia,38.4,HROR,SK,49.10656,18.99204,,,,1827,42647
 H1004,Feldkirchen,38.2,HROR,DE,47.96092,12.1561,,,,2151,
-H1005,BARRIOS DE LUNA 1 (MORA LUNA),38,HDAM,ES,42.466999,-5.883,300.3,308,252000,,
+H1005,BARRIOS DE LUNA 1 (MORA LUNA),38,HDAM,ES,42.466999,-5.883,300.3,308,252e3,,
 H1007,"Garsten st, ulrich",38,HROR,AT,48.018488,14.411714,,,,395,
 H1008,Mavcice HE Mavcice 1 - Mavcice Hydroelectric Power Plant Slovenia,38,HDAM,SI,46.18387,14.40805,40,1.68,,1772,44875
 H1009,Granfors,40,HDAM,SE,64.1833333,20.3833333,,,,2839,
@@ -816,10 +812,10 @@ H1014,Regoledo,38,HROR,IT,46.135091,9.551643,,,,3720,
 H1015,Deanie,38,HROR,GB,57.382,-4.881,,,,,
 H1018,PENADRADA 1,38,HDAM,ES,42.854,-6.459,,,,,
 H1019,Kierikki,38,HROR,FI,65.372222,25.840278,18.2,,,,
-H1020,Arcesti,38,HDAM,RO,44.449583,24.312917,31,43.4,,,
-H1021,Calimanesti,38,HDAM,RO,45.074583,24.364583,29,4.6,,,
 H1022,Ionesti,38,HDAM,RO,44.857917,24.24625,34,24.9,,,
-H1023,Zavideni,38,HDAM,RO,44.774583,24.27125,30,500,,,
+H812,Ipotesti,53,HDAM,RO,44.26625,24.400417,31,110,,,
+H813,Izbiceni,53,HDAM,RO,43.81625,24.69625,29,74,,,
+H1462,Lugasu,18,HDAM,RO,47.059583,22.30375,29,65.4,,,
 H1024,Wyhlen,37.9,HROR,DE,47.5523554,7.6580881,,,,2726,
 H1025,Argentiere bessee Argentiere-La Bessee Hydroelectric Power Station France - Argentiere-La Bessee Hydroelectric Power Station France,37.5159235668789,HDAM,FR,44.783,6.54799999999999,,,,3011,39767
 H1026,Grono,37.5,HROR,CH,46.2420119954,9.15352000435,,,,2194,
@@ -830,8 +826,8 @@ H1031,ENTREPENAS 1,37,HDAM,ES,40.493,-2.75,343.7,835,,,
 H1032,Weyer,37,HROR,AT,48.1465032749364,14.117603302002,,,,576,
 H1033,Sikfors,40,HDAM,SE,65.525764,21.183168,,,,2875,
 H1034,Skedvi,38,HDAM,SE,60.398171,15.808669,,,,2877,
-H1035,Babeni,37,HDAM,RO,44.920417,24.250417,33,59.7,,,
-H1036,Daesti,37,HDAM,RO,45.17875,24.369583,29,11.2,,,
+H1771,Maneciu,10,HDAM,RO,45.332917,25.987917,78,60,,,
+H1772,Paltinu,10,HDAM,RO,45.249583,25.735417,108,53.67,,,
 H1037,Egets Egets Hydroelectric Power Station France - Egets Hydroelectric Power Station France,36.8248407643312,HDAM,FR,42.955,0.565,,,,3068,39774
 H1038,HE Rijeka,36.8,HROR,HR,45.3349990844727,14.4519996643066,,,,,
 H1039,Rheinau,36.8,HROR,CH,47.6389102371,8.60166117811,,,,2516,
@@ -874,7 +870,7 @@ H1083,Bistrica I,22.5,HDAM,AL,39.9511,20.09778,23,0.58,,,
 H1084,Le furcil,33.408,HROR,CH,47.03731052405,6.752899472575,,,,5230,
 H1085,Pallazuit,33.4,HDAM,CH,45.9810884929,7.18949243196,,,,2443,
 H1086,Göschenen andermatt,33.26,HROR,CH,46.6673628552,8.5853141019,,,,2189,
-H1087,SAN JUAN 1,33,HDAM,ES,40.373001,-4.312,276.6,138,104000,,
+H1087,SAN JUAN 1,33,HDAM,ES,40.373001,-4.312,276.6,138,104e3,,
 H1088,Arnstein-KW,33,HDAM,AT,47.049999,15.194,,,,301,
 H1091,Ernen ERNE UNIT 3,33,HROR,CH,46.3911687446,8.13015040964,,,,239,
 H1092,SANTA MARINA 1,33,HDAM,ES,42.668999,-6.512,,,,,
@@ -899,7 +895,7 @@ H1114,Hričov Hricov Hydroelectric Power Plant Slovakia - Hricov Hydroelectric P
 H1115,Nassfeld,31.5,HPHS,AT,47.05,13.05,,,,2409,
 H1116,Laforsen,32,HROR,SE,61.937373,15.521949,,,,2856,
 H1117,Upm schwedt,31.3,HROR,DE,50.8009765,13.2101955,,,,6349,
-H1118,Beli Iskar + Mala Tsarkva + Simeonovo HPP,31.3,HROR,BG,42.1373,23.5691,,,,,
+H313,Orphey Orfeus bulgeria HPP_ORFEUS_PUMP - Orfeus Pumped Storage Hydroelectric Power Plant Bulgeria,160,HPHS,BG,41.9404,24.27,65.8,226.12,,3147,42186
 H1122,Karsefors,31.4,HDAM,SE,56.501729,13.11362,,,,802,
 H1123,"Vizzola t,",31,HROR,IT,45.6317,8.6865,,,,3881,
 H1124,Montbovon,31,HROR,CH,46.4879524618,7.04831690495,,,,2392,
@@ -922,7 +918,7 @@ H1146,Chanrion,30,HROR,CH,45.99977203,7.35062083303999,,,,2083,
 H1147,Les clées,30,HROR,CH,46.7311268768999,6.44499252092,,,,236,
 H1148,Kuusankoski hydropower plant,30,HROR,FI,60.868056,26.70416,,,,,
 H1149,Voikkaa hydropower plant,30,HROR,FI,60.868056,26.70416,,,,,
-H1150,Costeshti Stinka / Stanca,30,HDAM,RO,47.84125,27.225417,43,1290,,,
+H216,PDF212 - Iron Gate II Hydroelectric Power Station Romania,216,HROR,RO,44.306999,22.568001,35,600,,,40976
 H1152,Beaumont Beaumont Hydroelectric Power Station France - Beaumont Hydroelectric Power Station France,29.7472406713584,HROR,FR,43.735,5.75299999999999,,,,3023,39824
 H1153,Saut mortier Saut Mortier Hydroelectric Power Station France - Saut Mortier Hydroelectric Power Station France,29.7472406713584,HROR,FR,46.372,5.642,,,,3186,39795
 H1154,Marcillac Marcillac Hydroelectric Power Station France - Marcillac Hydroelectric Power Station France,29.6178343949044,HDAM,FR,45.215,2.038,,,,3129,39751
@@ -932,7 +928,7 @@ H1159,Chievo,29,HROR,IT,45.45,10.9333333,,,,3357,
 H1160,Hone,29,HROR,IT,45.613561,7.738513,,,,3492,
 H1161,Stanga,29,HROR,IT,46.1111111,12.1002778,,,,3793,
 H1162,SOBRON 1,29,HDAM,ES,42.820999,-3.157,,,,,
-H1163,Galbeni,29,HDAM,RO,46.457917,26.952083,24,396.6,,,
+H1719,Piatra Neamt,11,HDAM,RO,46.932917,26.337917,27,10,,,
 H1164,Schaffhausen,28.9,HROR,CH,47.6931243898,8.63042746026,,,,2565,
 H1166,Auzerette Auzerette Hydroelectric Power Station France - Auzerette Hydroelectric Power Station France,28.6305732484076,HDAM,FR,45.365,2.646,,,,3013,39740
 H1167,Obervermunt Obervermunt Hydroelectric Power Plant Austria - Obervermunt Hydroelectric Power Plant Austria,28.6305732484076,HDAM,AT,46.9271,10.0536,,,,3144,45208
@@ -947,10 +943,10 @@ H1176,Casteldelf,28,HDAM,IT,44.58963,7.069818,,,,3342,
 H1177,Vobarno,28,HDAM,IT,45.640087,10.503473,,,,3882,
 H1178,Kraftwerksgruppe pfreimd,28,HROR,DE,49.55226,12.28127,,,,5178,
 H1179,Lavamuend-KW - Lavamuend Hydroelectric Power Plant Austria,28,HDAM,AT,46.644001,14.938,,,,,
-H1180,Spanchevo HPP,28,HROR,BG,41.56265,23.56559,,,,,
+H2478,Pasarel Hydro Power Station,33,HDAM,BG,42.5441,23.4861,116,655.3,,,
 H1185,Dernier,28,HDAM,CH,46.7020995589,6.34993754477,,,,2110,
 H1186,ZUJAR,28,HDAM,ES,38.917,-5.479,,,,,
-H1188,Kiskore hungary Kiskore Hydroelectric Power Plant Hungary - Kiskore Hydroelectric Power Plant Hungary,27.6433121019108,HDAM,HU,47.49317,20.5157,,,,3101,42675
+H1188,Kiskore hungary Kiskore Hydroelectric Power Plant Hungary - Kiskore Hydroelectric Power Plant Hungary,28,HDAM,HU,47.493163,20.514556,6.25,228.6,,3101,42675
 H1189,Moux charmines Moux Charmines Hydroelectric Power Station France - Moux Charmines Hydroelectric Power Station France,27.6433121019108,HDAM,FR,46.277,5.55399999999999,,,,3138,39701
 H1190,Wettingen dotieranlage,27.45,HROR,CH,47.45672815425,8.321163580195,,,,2719,
 H1192,Licq atherey Licq-Atherey Hydroelectric Power Station France - Licq-Atherey Hydroelectric Power Station France,27.0509554140127,HDAM,FR,43.048,-0.885999999999999,,,,3118,39804
@@ -964,7 +960,7 @@ H1201,Cencenighe,27,HROR,IT,46.343118,11.973394,,,,3349,
 H1202,Suviana,27,HDAM,IT,44.170457,11.088812,,,,3803,
 H1203,Robbia,27,HDAM,CH,46.3482642227,10.0610921706,,,,2527,46286
 H1204,REGUEIRO (MAO) 1,27,HDAM,ES,42.342999,-7.475,,,,,
-H1205,Kaltimo,27,HROR,FI,62.807917,30.179583,30,2000,,,
+H1205,Kaltimo,27,HROR,FI,62.807917,30.179583,30,2e3,,,
 H1206,Kurkiaska,27,HROR,FI,67.4167,26.6,,,,,
 H1207,Siuronkoski,26.56,HROR,DE,49.295795262,10.67152366142,,,,6149,
 H1208,Neuägeri gmde menzingen,26.44,HROR,CH,47.70069822315,10.62564126286,,,,5597,
@@ -984,7 +980,7 @@ H1225,Predazzo,26,HROR,IT,46.308814,11.599686,,,,3709,
 H1226,Neuötting,26,HROR,AT,48.2497289999999,12.691057,,,,5598,
 H1227,Pernegg-KW,26,HDAM,AT,47.362,15.338,,,,,
 H1232,Tiefencastel west,26,HROR,CH,46.6644016578,9.56270347436999,,,,2639,
-H1233,Slatina,26,HDAM,RO,44.407917,24.354583,26,19.2,,,
+H909,Racaciuni,45,HDAM,RO,46.337083,27.04625,29,103.7,,,
 H1234,Santa Luzia,25.9,HDAM,PT,40.5,-7.51,76,50.5,34200,,
 H1235,"Nové mesto Nove Mesto n,V, Hydroelectric Power Plant Slovakia - Nove Mesto n,V, Hydroelectric Power Plant Slovakia",25.7,HROR,SK,48.77245,17.85146,,,,1823,42655
 H1236,Beznau,25.7,HROR,CH,47.557805126,8.23714123041,,,,2015,
@@ -992,7 +988,7 @@ H1237,Koronowo Koronowo Hydroelectric Power Plant Poland - Koronowo Hydroelectri
 H1238,Horná streda Horna Streda Hydroelectric Power Plant Slovakia - Horna Streda Hydroelectric Power Plant Slovakia,25.5,HROR,SK,48.66046,17.85503,,,,1808,42656
 H1239,Kostolná Kostolna Hydroelectric Power Plant Slovakia - Kostolna Hydroelectric Power Plant Slovakia,25.5,HROR,SK,48.86096,17.96874,,,,1812,42654
 H1240,Dabbsjö,26,HDAM,SE,64.607742,15.465791,45,337,,795,
-H1241,LA SERENA,25,HDAM,ES,38.912998,-5.413,125,3219,421000,,
+H1241,LA SERENA,25,HDAM,ES,38.912998,-5.413,125,3219,421e3,,
 H1245,Kellerberg Kellerberg-KW - Kellersberg Hydroelectric Power Plant Austria,25,HROR,AT,46.669879,13.725482,,,,162,45185
 H1246,Villach Villach-KW - Villach Hydroelectric Power Plant Austria,25,HROR,AT,46.632859,13.829237,,,,189,45184
 H1247,Landl,25,HROR,AT,47.651131,14.750286,,,,438,
@@ -1026,7 +1022,7 @@ H1276,Hautefage Hautefage Hydroelectric Power Station France - Hautefage Hydroel
 H1277,Cernaleve 1/2,24.4,HROR,AL,42.02941667,20.55555278,,,,,
 H1279,Bele 1/2,16,HROR,AL,42.06903611,20.46006667,,,,,
 H1280,Oresheke,24.26,HROR,AL,42.02874167,20.53076389,,,,,
-H1281,Kalin + Kamenitsa + Pastra + Rila HPP,24.2,HDAM,BG,42.07,23.13,,,,,
+H406,Peshtera HPP_PESHTERA - Peshtera Hydroelectric Power Plant Bulgaria,128,HDAM,BG,42.0135,24.2579,586,302.3,,3155,42190
 H1282,Wasserburg,24.1,HROR,DE,48.05699,12.22074,,,,2714,
 H1283,Miljacka - Maljacka Hydroelectric Power Plant Croatia Croatia,24,HROR,HR,44.001999,16.018999,,,,,44838
 H1284,Paternion Paternion-KW - Paternion Hydroelectric Power Plant Austria,24,HROR,AT,46.720841,13.645572,,,,170,45183
@@ -1065,8 +1061,8 @@ H1322,Racova,23,HDAM,RO,46.695417,26.712917,20,8.66,,,
 H1323,Cize bolozon Cize Bolozon Hydroelectric Power Station France - Cize Bolozon Hydroelectric Power Station France,22.7070063694267,HDAM,FR,46.211,5.465,,,,3031,39699
 H1325,Stechovice-I Hydroelectric Power Plant Czech Republic - Stechovice-I Hydroelectric Power Plant Czech Republic,22.5,HDAM,CZ,49.84625,14.42176,22.5,11.2,,,42360
 H1326,Sklope Sklope - Sklope Hydroelectric Power Plant Croatia Croatia,22.5,HROR,HR,44.6895,15.2706,,,,3195,44845
-H1327,Kokalyane HPP,22.4,HROR,BG,42.55,23.487,,,,,
-H1328,Stara Zagora HPP,22.4,HDAM,BG,42.4452,25.6364,132,142.4,,,
+H1865,Petrohan HPP,7.8,HDAM,BG,43.12,23.12,529,0.14,,,
+H1352,Pirin HPP,21.2,HDAM,BG,41.5745,23.5626,456,0.06,,,
 H1329,Pfrombach,22.3,HROR,DE,48.44132,11.99233,,,,2462,
 H1331,Triouzoune Hydroelectric Power Station France - Triouzoune Hydroelectric Power Station France,22,HDAM,FR,45.347,2.349,27,24,,,39752
 H1332,Touvedo Touvedo - Touvedo Hydroelectric Power Plant Portugal,22,HDAM,PT,41.8124,-8.354,42,4.5,200,3210,43571
@@ -1084,7 +1080,7 @@ H1346,Tuilieres Tuilieres Hydroelectric Power Station France - Tuilieres Hydroel
 H1347,Straubing,21.5,HROR,DE,48.89659,12.55752,,,,2612,
 H1350,Saint cassien Saint Cassien Hydroelectric Power Station France - Saint Cassien Hydroelectric Power Station France,21.4235668789808,HDAM,FR,43.602,6.841,,,,3046,39821
 H1351,Hällforsens,22,HDAM,SE,64.58337,18.69227,,,,2845,
-H1352,Pirin HPP,21.2,HROR,BG,41.5745,23.5626,,,,,
+H103,PSHPP_BELMEKEN_1 - Belmeken Pumped Storage Hydroelectric Power Plant Bulgaria,375,HPHS,BG,42.198002,23.862,640,42.723970944309926,,,
 H1355,Näs Nas Hydroelectric Power Plant Sweden - Nas Hydroelectric Power Plant Sweden,21.3471337579617,HDAM,SE,60.1749285,16.476273,,,,778,46256
 H1356,Quincinetto,21,HROR,IT,45.56296,7.80731499999999,,,,3714,
 H1357,Rio pusteria,21,HROR,IT,46.8333333,11.6166666999999,,,,3729,
@@ -1094,7 +1090,7 @@ H1361,BELESII,21,HDAM,ES,42.629002,-7.712,,,,,
 H1362,HE Moste 1 - Moste Hydroelectric Power Plant Slovenia,21,HDAM,SI,46.417,14.133,60,5.464,,2398,44877
 H1363,Leppikoski,21,HROR,FI,64.33,27.8,,,,,
 H1364,Vajukoski,21,HROR,FI,67.691433,26.802883,,,,,
-H1365,Colibita,21,HDAM,RO,47.165417,24.877917,92,75.22,,,
+H894,Ramnicu Valcea,46,HDAM,RO,45.120417,24.375417,34,19,,,
 H1366,Spina isola,20.9,HDAM,CH,46.4311343619999,9.20699910427,45,6.5,,2599,
 H1367,Bürglen unterschächen,20.8,HROR,CH,46.8765292426,8.6633716678,,,,2054,
 H1368,Calancasca,20.8,HROR,CH,46.2392079506,9.11854962054,,,,4306,
@@ -1181,8 +1177,8 @@ H1456,Quoich,18,HROR,GB,57.155998,-4.936,,,,,
 H1459,Sanetsch,18,HDAM,CH,46.3764261319,7.27799985349,42,2.6,,2555,
 H1460,PORTO,18,HDAM,ES,42.161999,-6.921,,,,,
 H1461,Kuurna,18,HROR,FI,60.291349,25.31687,,,,,
-H1462,Lugasu,18,HDAM,RO,47.059583,22.30375,29,65.4,,,
-H1463,Tileagd,18,HDAM,RO,47.07875,22.207917,37,52.9,,,
+H123,Raul Mare (Retezat) Hydroelectric Power Station Romania - Raul Mare (Retezat) Hydroelectric Power Station Romania,335,HDAM,RO,45.3391,22.7213,168,220,,,40983
+H814,Rusanesti,53,HDAM,RO,43.920417,24.625417,29,78,,,
 H1464,Altheim,17.8,HROR,DE,51.536513,14.382898,,,,1967,
 H1466,Dallenwil,17.75,HROR,CH,46.9116636808,8.39360887478,,,,2108,
 H1467,Turinge,18,HDAM,SE,59.2,17.45,,,,2885,
@@ -1225,7 +1221,7 @@ H1512,Laufnitzdorf-KW,16,HDAM,AT,47.292,15.323,,,,,
 H1513,"St, Veit-KW - St, Veit Hydroelectric Power Plant Austria",16,HDAM,AT,47.321999,13.174,,,,,
 H1514,Vranov,16,HDAM,CZ,48.907917,15.817083,59,122.665,,,
 H1521,Lieksankoski,16,HROR,FI,63.338769,30.031884,,,,,
-H1522,Hateg,16,HDAM,RO,45.59125,22.95875,32,12.5,,,
+H1600,Scoreiu,14,HDAM,RO,45.77875,24.512917,22,5.2,,,
 H1523,Alarcon Alarcon Hydroelectric Power Plant Spain - Alarcon Hydroelectric Power Plant Spain,15.89,HDAM,ES,39.565,-2.113056,523.9,1118,,140,45883
 H1524,Bisisthal,15.8,HROR,CH,46.9466216843,8.82799774611,,,,2022,
 H1525,Sernf,15.7,HROR,CH,46.9957286985,9.08713105463,,,,2575,
@@ -1233,8 +1229,8 @@ H1526,Bullerforsen,16.6911456118294,HDAM,SE,60.508889,15.436944,,,,2833,
 H1527,Montcherand,15.5,HROR,CH,46.7272057233,6.51348662251999,,,,2393,
 H1529,Morobbia,15.5,HROR,CH,46.1680636081,9.01689952707,,,,2397,
 H1531,Aarberg Aarberg Hydroelectric Power Plant Switzerland - Aarberg Hydroelectric Power Plant Switzerland,15.2,HROR,CH,47.0378523989,7.27192721071,,,,1731,45222
-H1532,BEMBEZAR,15,HDAM,ES,37.903,-5.207,56.9,342,53000,,
-H1533,GUADALMENA 1,15,HDAM,ES,38.356998,-2.921,103,347,86000,,
+H1532,BEMBEZAR,15,HDAM,ES,37.903,-5.207,56.9,342,53e3,,
+H1533,GUADALMENA 1,15,HDAM,ES,38.356998,-2.921,103,347,86e3,,
 H1541,Gralla,15,HROR,AT,46.828285,15.566222,,,,405,
 H1542,Ilava Ilava Hydroelectric Power Plant Slovakia - Ilava Hydroelectric Power Plant Slovakia,15,HROR,SK,49.00567,18.23494,,,,1810,42661
 H1543,Bigge,15,HROR,DE,51.093173,7.86271999999999,,,,2019,
@@ -1256,8 +1252,8 @@ H1558,Torr Achilty,15,HDAM,GB,57.5851,-4.5397,,,,,
 H1561,Niederried Niederried-Radelfingen Hydroelectric Power Plant Switzerland - Niederried-Radelfingen Hydroelectric Power Plant Switzerland,15,HROR,CH,47.0031721764999,7.24113567118,,,,1780,45223
 H1562,BEJO,15,HDAM,ES,43.112,-4.441,,,,,
 H1564,Pankakoski,15.3,HROR,FI,63.323397,30.143619,,,,,
-H1565,Valcele,15,HDAM,RO,44.982917,24.742083,35,54.8,,,
-H1566,Zigoneni,15,HDAM,RO,45.082917,24.662917,29,13.3,,,
+H949,Siriu,42,HDAM,RO,45.495417,26.250417,122,155,,,
+H1233,Slatina,26,HDAM,RO,44.407917,24.354583,26,19.2,,,
 H1567,Gummering,14.8,HROR,DE,48.622456,12.398037,,,,2199,
 H1568,Blybergs kraftverk,15,HDAM,SE,61.146912,14.146147,,,,2831,
 H1569,Unteraa melchaa,14.3099999999999,HROR,CH,46.877060548825,7.99859223136,,,,6346,
@@ -1284,11 +1280,11 @@ H1592,Gabersdorf-KW,14,HDAM,AT,46.799999,15.559,,,,,
 H1593,Gralla-KW,14,HDAM,AT,46.837002,15.552,,,,,
 H1594,Rabenstein-KW,14,HDAM,AT,47.250999,15.31,,,,,
 H1596,Motala,14,HDAM,SE,58.560479,15.082435,25,170,,809,
-H1598,Arpasu,14,HDAM,RO,45.79375,24.595417,20,7.35,,,
-H1599,Avrig,14,HDAM,RO,45.745417,24.39125,23,10.8,,,
-H1600,Scoreiu,14,HDAM,RO,45.77875,24.512917,22,5.2,,,
-H1601,Vistea,14,HDAM,RO,45.80875,24.749583,20,4.25,,,
-H1602,Voila,14,HDAM,RO,45.835417,24.860417,26,12.25,,,
+H851,Strejesti,50,HDAM,RO,44.537083,24.325417,33,225,,,
+H329,SUGAG1 - Sugag (Tau) Hydroelectric Power Station Romania,150,HDAM,RO,45.776001,23.653999,78,21,,,40981
+H910,Tarnita,45,HDAM,RO,46.727083,23.29625,97,74,,,
+H1463,Tileagd,18,HDAM,RO,47.07875,22.207917,37,52.9,,,
+H1684,Vadeni,12,HDAM,RO,45.057917,23.267917,25,4.76,,,
 H1603,Rajan 1/2,13.92,HROR,AL,40.26653611,20.52168611,,,,,
 H1605,Gideabacka,14,HDAM,SE,63.331136,19.126693,,,,797,
 H1606,Zeltingen,13.6,HROR,DE,49.951074,7.023166,,,,2732,
@@ -1352,7 +1348,7 @@ H1677,Refrain,12,HROR,CH,47.1876938239,6.87311737174999,,,,5937,
 H1678,Gmuend-Speicher,12,HDAM,AT,47.932999,13.797,,,,,
 H1679,Triebenbach-KW,12,HDAM,AT,47.480999,14.484,,,,566,
 H1680,Vir I,12,HDAM,CZ,49.56625,16.30875,78,53.142,,,
-H1684,Vadeni,12,HDAM,RO,45.057917,23.267917,25,4.76,,,
+H1565,Valcele,15,HDAM,RO,44.982917,24.742083,35,54.8,,,
 H1685,Felsenau Felsenau Hydroelectric Power Plant Switzerland - Felsenau Hydroelectric Power Plant Switzerland,11.94,HROR,CH,46.9684429407999,7.43942106448,,,,1747,45220
 H1686,Oberpeiching,11.9,HROR,DE,48.646423,10.879086,,,,2429,
 H1687,Champcella Champcella Hydroelectric Power Station France - Champcella Hydroelectric Power Station France,11.8471337579617,HDAM,FR,44.7369999999999,6.575,,,,3051,39768
@@ -1379,8 +1375,8 @@ H1714,Nechranice,11,HDAM,CZ,50.36625,13.412917,52,287.562,,,
 H1715,Cashlie,11,HROR,GB,56.509998,-4.228,142,,,,
 H1716,ROZADIO,11,HDAM,ES,43.214001,-4.381,,,,,
 H1717,Matarakoski,11,HROR,FI,67.636463,26.781735,,,,,
-H1718,Budeasa,11,HDAM,RO,44.91625,24.82125,33,54.9,,,
-H1719,Piatra Neamt,11,HDAM,RO,46.932917,26.337917,27,10,,,
+H1601,Vistea,14,HDAM,RO,45.80875,24.749583,20,4.25,,,
+H1602,Voila,14,HDAM,RO,45.835417,24.860417,26,12.25,,,
 H1720,Pont tine coussy loudze,10.99,HROR,CH,46.34778506625,7.044325778675,,,,2642,
 H1721,Rain,10.9,HROR,DE,48.692383,10.897786,,,,2504,
 H1722,Im roos,10.86,HROR,CH,47.2585402790999,9.12960201415,,,,5047,
@@ -1390,7 +1386,7 @@ H1728,Upm schongau,10.5,HROR,DE,47.803187,10.904254,,,,6348,
 H1729,Rüchlig dotierzentrale,10.4,HROR,CH,47.3994245678,8.05102832477,,,,2539,
 H1730,Dessau,10.3,HROR,DE,47.739292,10.825702,,,,2112,
 H1731,LOUROS,10.3,HROR,GR,39.251598,20.8648,,,,,
-H1732,Alexander Stambolyski Hydro Power Site,10.24,HROR,BG,43.1213,25.171,,,,,
+H26,PSHPP_CHAIRA_GP1 - Chaira Pumped Storage Hydroelectric Power Plant Bulgaria,864,HPHS,BG,42.159,23.871,690,98.43602905569006,,2901,42172
 H1733,Faimingen,10.1,HROR,DE,48.558394,10.411764,,,,2147,
 H1734,Urspring,10.1,HROR,DE,47.71598,10.825785,,,,2669,
 H1739,Leoben,10,HROR,AT,47.388476,15.095161,,,,445,
@@ -1420,9 +1416,9 @@ H1763,Leoben-KW,10,HDAM,AT,47.381001,15.103,,,,,
 H1764,Wallnerau-Salzachstufe-KW - Wallnerau Salzach Hydroelectric Power Plant Austria,10,HDAM,AT,47.316002,13.141,,,,,
 H1765,Ivoz-Ramet - Ivoz-Ramet,10,HROR,BE,50.5922,5.4613,,,,,42006
 H1766,Cassley CASS-1,10,HROR,GB,58.188999,-4.734,,,,,
-H1769,PORTODEMOUROS,10,HDAM,ES,42.855,-8.189,,,39000,,
-H1771,Maneciu,10,HDAM,RO,45.332917,25.987917,78,60,,,
-H1772,Paltinu,10,HDAM,RO,45.249583,25.735417,108,53.67,,,
+H1769,PORTODEMOUROS,10,HDAM,ES,42.855,-8.189,,,39e3,,
+H1023,Zavideni,38,HDAM,RO,44.774583,24.27125,30,500,,,
+H1566,Zigoneni,15,HDAM,RO,45.082917,24.662917,29,13.3,,,
 H1773,Weserkraftwerk bremen,9.9,HROR,DE,53.061134,8.864937,,,,6477,
 H1774,Zederhaus,9.8,HDAM,AT,47.15,13.5,,,,2731,
 H1775,Ellgau,9.7,HROR,DE,48.596746,10.8789,,,,2127,
@@ -1486,10 +1482,10 @@ H1854,Vouvry,8,HDAM,CH,46.3361244664,6.88148115355,,,,6460,
 H1855,Salza-KW,8,HDAM,AT,47.487,14.026,,,,,
 H1856,GHIONA,8,HROR,GR,38.546509,22.354761,,,,,
 H1857,Striven STVE-1,8,HROR,GB,56.014999,-5.121,,,,,
-H1858,Barzia HPP,8,HROR,BG,43.19,23.167,,,,,
+H1180,Spanchevo HPP,28,HDAM,BG,41.56265,23.56559,438,0.04,,,
 H1862,Bassalt,8,HDAM,SE,56.75,13.2833333,,,,791,
 H1864,Zur Zur Hydroelectric Power Plant Poland - Zur Hydroelectric Power Plant Poland,7.89808917197452,HDAM,PL,53.5613,18.354,,,,3231,42477
-H1865,Petrohan HPP,7.8,HROR,BG,43.12,23.12,,,,,
+H1328,Stara Zagora HPP,22.4,HROR,BG,42.4452,25.6364,132,142.4,,,
 H1869,Sorpesee,7.42,HPHS,DE,51.3510404,7.9680569,,,,3240,
 H1870,Golubic Golubic - Golubic Hydroelectric Power Plant Croatia Croatia,7.40445859872611,HDAM,HR,44.09,16.2204,,,,3082,44840
 H1871,Pilchowice Pilchowice Hydroelectric Power Plant Poland - Pilchowice Hydroelectric Power Plant Poland,7.40445859872611,HDAM,PL,50.964,15.645,,,,3157,42482
@@ -1511,7 +1507,7 @@ H1895,Suio,7,HROR,IT,41.240815,13.932818,,,,3802,
 H1896,Tornavento,7,HROR,IT,45.59677,8.754735,,,,3823,
 H1897,Medjuvrsje Hydroelectric Power Plant Serbia - Medjuvrsje Hydroelectric Power Plant Serbia,7,HROR,RS,43.909,20.2327,,,,,44130
 H1898,Gaur GAUR-1,7,HROR,GB,56.682999,-4.513,,,,,
-H1899,Koprinka HPP (Kaplan),7,HROR,BG,42.6125,25.3198,,,,,
+H610,Studen kladenets Studen Kladenets Hydroelectric Power Plant Bulgaria - Studen Kladenets Hydroelectric Power Plant Bulgaria,80.9554140127388,HDAM,BG,41.61227,25.64052,65.8,388,,3199,42193
 H1905,Puntarikoski,7,HROR,FI,62.825417,29.475417,14,2390,,,
 H1906,Bondo,6.9,HROR,CH,46.3339963909,9.55121328995,,,,2039,
 H1908,Ampsin neuville Ampsin Neuville Hydroelectric Power Plant Belgium - Ampsin Neuville Hydroelectric Power Plant Belgium,6.69312915105565,HROR,BE,50.5335,5.2962,,,,857,42003
@@ -1606,7 +1602,7 @@ H2085,Calcaccia,3.6,HROR,CH,46.5194921171,8.6345754932,,,,2061,
 H2086,Buchs altendorf,3.56,HROR,CH,47.1569967916,9.46710077053,,,,1993,
 H2087,Luchsingen,3.5,HROR,CH,46.9660497748,9.0354895251,,,,2352,
 H2088,Lairg,3.5,HDAM,GB,58.02,-4.4151,,,,,
-H2089,Klisoura HPP,3.5,HROR,BG,43.16859,23.15498,,,,,
+H743,Teshel Teshel Hydroelectric Power Plant Bulgaria - Teshel Hydroelectric Power Plant Bulgaria,60,HDAM,BG,41.6428,24.153,341,447.13,,3206,42188
 H2091,Wiesti,3.4,HROR,CH,46.0243792554,7.75257026538,,,,2733,
 H2092,Grand malades Grand-Malades Hydroelectric Power Plant Belgium - Grand-Malades Hydroelectric Power Plant Belgium,3.38036825810891,HROR,BE,50.4665,4.8992000000000004,,,,861,42001
 H2093,Wallnerau unterwasser Wallnerau-Unterwasser Power Plant Austria - Wallnerau-Unterwasser Power Plant Austria,3.38036825810891,HROR,AT,47.31554,13.140946,,,,876,45561
@@ -1623,13 +1619,13 @@ H2104,Ponte brolla,3.1,HROR,CH,46.18559009,8.75120889324,,,,2475,
 H2105,Ouvra electrica lavinuoz lavin,3.07,HROR,CH,46.7689779531,10.1143178662,,,,5676,
 H2120,Tuxbach,3,HROR,AT,47.135884,11.8485935,,,,203,45195
 H2121,Kinna,3.12958980221802,HDAM,SE,57.509323,12.683843,,,,2850,
-H2122,Rondchâtel,3,HROR,CH,47.1710326223,7.24974576351,,,,6000,
+H2122,Rondchâtel,3,HROR,CH,47.1710326223,7.24974576351,,,,6e3,
 H2123,Leiersbach-KW,3,HDAM,AT,47.145,10.917,,,,,
 H2125,Slezska Harta,3,HDAM,CZ,49.89125,17.579583,65,217,,,
 H2126,Achanalt,3,HROR,GB,57.775002,-4.955,,,,,
 H2127,Lednock,3,HROR,GB,56.509998,-4.228,,,,,
 H2137,Ftere 1,3,HROR,AL,40.11119167,19.87758889,,,,,
-H2138,Kesznyeten hernadviz hungary Kesznyeten (Hernadviz) Hydroelectric Power Plant Hungary - Kesznyeten (Hernadviz) Hydroelectric Power Plant Hungary,2.97472406713584,HROR,HU,47.966,21.033,,,,3098,42677
+H2138,Kesznyeten hernadviz hungary Kesznyeten (Hernadviz) Hydroelectric Power Plant Hungary - Kesznyeten (Hernadviz) Hydroelectric Power Plant Hungary,4.4,HROR,HU,47.995972,21.033037,14,,,3098,42677
 H2139,HE Pljevlja,2.961,HDAM,ME,43.358164,19.313452,,,2894,,
 H2140,Dietikon,2.94,HROR,CH,47.4103399639,8.40798019435,,,,4558,
 H2141,Sainte anne,2.9,HROR,CH,46.5351297566,7.08799404018999,,,,6030,
@@ -1671,7 +1667,7 @@ H2181,Morteratsch,2.03,HROR,CH,46.23133527775,8.86023576329,,,,5509,
 H2193,Niklai,2,HROR,AT,46.823629,13.295556,,,,688,
 H2194,Pichlern,2,HROR,AT,48.022415,14.322989,,,,704,
 H2195,Pöls,2,HROR,AT,47.217744,14.599075,,,,711,
-H2196,Hospental,2,HROR,CH,46.6205638209,8.56904462908,,,,5000,
+H2196,Hospental,2,HROR,CH,46.6205638209,8.56904462908,,,,5e3,
 H2197,Hieflau-Speicher,2,HDAM,AT,47.602001,14.764,,,,,
 H2198,Kilmelfort,2,HROR,GB,56.282002,-4.93,,,,,
 H2215,Radove,2,HROR,AL,40.13735833,20.55160556,,,,,
@@ -1835,7 +1831,7 @@ H2400,Büttenen,0.55,HROR,CH,47.4428086272999,7.59347246718,,,,4272,
 H2401,Chriz,0.55,HROR,CH,46.3017818765999,7.79089962744,,,,4405,
 H2402,Mels halde,0.55,HROR,CH,47.0445449435,9.4142733533,,,,5378,
 H2403,"Twkw nessel u, mittubäch",0.55,HROR,CH,46.2892989196,8.02478361541999,,,,6325,
-H2404,Floriffoux,0.540858921297426,HROR,BE,50.4468,4.7767,,,,870,42000
+H2404,Floriffoux,0.540858921297426,HROR,BE,50.4468,4.7767,,,,870,42e3
 H2405,Bruggmühle,0.54,HROR,CH,47.3497309812,8.33924607379,,,,4248,
 H2406,Äsch,0.52,HROR,CH,46.8652358009,8.81028683203,,,,6511,
 H2407,"V, kozmálovce",0.52,HROR,SK,48.26891,18.52822,,,,6368,
@@ -1909,7 +1905,7 @@ H2474,Punt gronda tarschlims,0.3,HROR,CH,46.8384516549,9.26509335259,,,,5881,
 H2475,Rotzloch,0.3,HROR,CH,46.9648831886,8.33108666537,,,,6007,
 H2476,Tecnicama,0.3,HROR,CH,46.2851556544999,9.17421837591,,,,6226,
 H2477,Flims felsbach bergwasser,0.28,HROR,CH,46.8340905068,9.31765249379,,,,4756,
-H2478,Pasarel Hydro Power Station,0,HDAM,BG,42.55,23.487,0,0,,,
+H604,Tsankov,82,HDAM,BG,41.83225,24.42183,135.4,111,,,
 H2479,Centrale di Faubourg,10.6,HROR,IT,45.716877,6.945111,,,,,
 H2480,Centrale di Aymavilles,8.6,HROR,IT,45.710407,7.253837,,,,,
 H2481,Centrale di Bard,4.1,HROR,IT,45.604446,7.746439,,,,,
@@ -2749,6 +2745,82 @@ H3329,Foz Tua,255,HDAM,PT,42.25183,-8.1419,107,28,,,
 H3330,Ribeiradio Ermida,82.3,HDAM,PT,40.991739,-8.1419,74,88.3,,,
 H3331,Centrale Santu Miali,27.5,HDAM,IT,39.5366292,8.9544651,115,1.4,,,
 H3332,Centrale di Casteldoria,5,HDAM,IT,40.889793,8.893944,26,3.55,,,
+H3333,Popina Laka,21.5,HDAM,BG,41.65627,23.3754,532,0.046,,,
+H3334,Lilyanovo,20,HDAM,BG,41.62674,23.33449,250,0.045,,,
+H3335,Sandanski I,14.2,HDAM,BG,41.58536,23.2905,230,0.03,,,
+H3336,Cumpanita,4.8,HROR,RO,45.43642,24.57988,,,,,
+H3337,Valsan,5,HDAM,RO,45.413408,24.708014,5.5,0.175,,,
+H3338,Oiesti,15,HROR,RO,45.23495,24.655669,,,,,
+H3339,ALBESTI,15,HROR,RO,45.216514,24.657876,,,,,
+H3340,CERBURENI,15,HROR,RO,45.192216,24.661323,,,,,
+H3341,VALEA IASULUI,15,HROR,RO,45.163978,24.659183,,,,,
+H3342,CURTEA DE ARGES,7.7,HROR,RO,45.144537,24.670473,,,,,
+H3343,NOAPTES,15.4,HROR,RO,45.125023,24.665071,,,,,
+H3344,BAICULESTI,15.4,HROR,RO,45.058839,24.688304,,,,,
+H3345,MANICESTI,11.5,HROR,RO,45.027604,24.704904,,,,,
+H3346,MERISANI,11.5,HROR,RO,44.956083,24.763985,,,,,
+H3347,BASCOV,7.7,HDAM,RO,44.89636,24.847892,,,,,
+H3348,PITESTI,7.7,HDAM,RO,44.845314,24.904656,,,,,
+H3349,GOLESTI (Calinesti),8,HDAM,RO,44.807323,24.99551,,,,,
+H3350,MIHAILESTI,10,HDAM,RO,44.327175,25.946302,,,,,
+H3351,LERESTI,19,HDAM,RO,45.3942,25.0625,,,,,
+H3352,VOINESTI,5.2,HDAM,RO,45.30504,25.070867,,,,,
+H3353,PANGARATI,23,HDAM,RO,46.925769,26.215466,,,,,
+H3354,VADURI,44,HDAM,RO,46.932513,26.27016,,,,,
+H3355,VANATORI,14,HROR,RO,46.871156,26.486143,,,,,
+H3356,ROZNOV,14,HROR,RO,46.848185,26.508258,,,,,
+H3357,ZANESTI,14,HROR,RO,46.815396,26.569482,,,,,
+H3358,COSTISA,14,HROR,RO,46.770213,26.61912,,,,,
+H3359,BUHUSI,11,HROR,RO,46.722069,26.671456,,,,,
+H3360,GARLENI,23,HROR,RO,46.667197,26.813902,,,,,
+H3361,LILIECI,23,HROR,RO,46.615654,26.897527,,,,,
+H3362,BACAU,30,HROR,RO,46.541997,26.948323,,,,,
+H3363,MOVILENI,33.9,HDAM,RO,45.78295,27.341556,,,,,
+H3364,CINDESTI,11.45,HROR,RO,45.272651,26.70468,,,,,
+H3365,VERNESTI,11.8,HROR,RO,45.224081,26.733625,,,,,
+H3366,SIMILEASCA,11.7,HROR,RO,45.187152,26.764864,,,,,
+H3367,SACADAT,10,HROR,RO,47.066488,22.148016,,,,,
+H3368,FUGHIU,10,HROR,RO,47.069443,22.070452,,,,,
+H3369,CLABUCET,64,HDAM,RO,45.5661,25.0937,,,,,
+H3370,RUCAR,23,HROR,RO,45.40486,25.15259,,,,,
+H3371,DRAGOSLAVELE,7.7,HROR,RO,45.33026,25.163888,,,,,
+H3372,VACARESTI,4.84,HDAM,RO,44.821493,25.488923,,,,,
+H3373,SCROPOASA,12,HDAM,RO,45.341494,25.430563,,,,,
+H3374,DOBRESTI,16,HDAM,RO,45.309726,25.418143,,,,,
+H3375,MOROIENI,15,HROR,RO,45.254715,25.41247,,,,,
+H3376,TG.JIU,11.8,HROR,RO,45.032495,23.263675,,,,,
+H3377,GURA LOTRULUI,24.9,HROR,RO,45.344738,24.275161,,,,,
+H3378,TURNU,70,HDAM,RO,45.277016,24.309554,24,,,,
+H3379,CALIMANESTI (Olt),38,HROR,RO,45.240308,24.346887,,,,,
+H3380,RAURENI,48,HROR,RO,45.071415,24.361505,,,,,
+H3381,CLOPOTIVA,14,HROR,RO,45.498403,22.842011,,,,,
+H3382,OSTROVU MIC,15.9,HDAM,RO,45.517246,22.854632,,,,,
+H3383,OSTROVU MARE,15.9,HROR,RO,45.524151,22.859883,,,,,
+H3384,CARNESTI  I,15.9,HROR,RO,45.535967,22.87017,,,,,
+H3385,CARNESTI  II,11.5,HROR,RO,45.546616,22.879027,,,,,
+H3386,PACLISA,15.9,HDAM,RO,45.562186,22.8975,,,,,
+H3387,TOTESTI  I,15.9,HROR,RO,45.571376,22.907179,,,,,
+H3388,TOTESTI  II,15.9,HROR,RO,45.582495,22.924621,,,,,
+H3389,ORLEA,11.5,HROR,RO,45.592718,22.973351,,,,,
+H3390,SUBCETATE,12.22,HROR,RO,45.615251,23.012205,,,,,
+H3391,PLOPI,12,HROR,RO,45.63866,23.011972,,,,,
+H3392,BRETEA,12,HROR,RO,45.667992,23.001966,,,,,
+H3393,SASCIORI,42,HDAM,RO,45.821684,23.610768,,,,,
+H3394,PETRESTI,4.25,HROR,RO,45.906206,23.558358,,,,,
+H3395,SOMES CALD,12,HDAM,RO,46.73178,23.35068,70,7.5,,,
+H3396,GILAU (I and II),13.53,HROR,RO,46.74472,23.37164,60,,,,
+H3397,FLORESTI (I and II),7.2,HROR,RO,46.749503,23.476444,10,,,,
+H3398,IZVOARELE,16,HDAM,RO,45.267768,26.024851,,,,,
+H3399,VALENII DE MUNTE,10,HDAM,RO,45.209482,26.050985,,,,,
+H3400,CHE MALAIA,18,HDAM,RO,45.35365,24.02453,,3.4,,,
+H3401,CHE MOTRU,50,HDAM,RO,45.134775,22.806895,,,,,
+H3402,CHE RAUL ALB,41,HDAM,RO,45.156224,22.410357,230,17,,,
+H3403,HE Tiszalok,13.5,HROR,HU,48.025136,21.307715,4.5,,,,
+H3404,HE Ikervar,1.8,HROR,HU,47.217304,16.934066,8,,,,
+H3405,Orelle,72,HROR,FR,45.20308,6.57913,,,,,
+H3406,Calypso,19.8,HROR,FR,45.235311,6.4399136,,,,,
+H3407,Arvan,29,HROR,FR,45.239059,6.3168593,,,,,
+H3408,Laparan,44,HDAM,FR,42.6717259,1.7009906,439,15.7,,,
 N1,Åna-Sira,150,HDAM,NO,58.293734,6.453253,47,155,17205.000000000004,,
 N2,Trælandsfos,10,HDAM,NO,58.348278,6.964348,25.7,,,,
 N3,Laudal,32,HDAM,NO,58.244885,7.515696,36,2.3,186.29999999999998,,
@@ -2795,7 +2867,7 @@ N43,Blåfalli IV,13,HDAM,NO,59.930933,6.197613,150,46,16605.999999999996,,
 N44,Novle,40,HDAM,NO,59.831861,6.881373,275,172.2,119506.79999999999,,
 N45,Røldal,166,HDAM,NO,59.818537,6.818576,365,301,247722.99999999997,,
 N46,Svandalsflona,20,HDAM,NO,59.850284,6.962739,200,28,14112,,
-N47,Songa,120,HDAM,NO,59.779587,7.728818,286.7,750,480000,,
+N47,Songa,120,HDAM,NO,59.779587,7.728818,286.7,750,48e4,,
 N48,Mauranger,250,HDAM,NO,60.127577,6.337427,830,88.7,171102.30000000002,,
 N49,Oksla,206,HDAM,NO,60.125942,6.568911,450,426,454542,,
 N50,Tysso II,224,HDAM,NO,60.129931,6.641965,725,353.2,594082.4,,
@@ -3290,7 +3362,7 @@ N538,Brødbølfoss,2.4,HDAM,NO,60.033452,12.371142,40,19.1,1566.2000000000003,,
 N539,Sagnfossen,6.2,HDAM,NO,61.161372,12.445738,9.5,,,,
 N540,Øvre Fiskumfoss,7.6,HDAM,NO,64.556298,12.4777,6.69,,,,
 N541,Tunnsjøfoss,8.5,HDAM,NO,64.690136999999993,13.215878,8.1,440,7919.999999999999,,
-N542,Langfjord,9,HDAM,NO,65.375183,12.700826,255,3.2,2000,,
+N542,Langfjord,9,HDAM,NO,65.375183,12.700826,255,3.2,2e3,,
 N543,Ildgrubfossen,6.5,HDAM,NO,66.300896,14.350961,220,7,3451,,
 N544,Reinfossen,3.4,HDAM,NO,66.349608,14.342784,30,,,,
 N545,Neverdalsåga,2.1,HDAM,NO,66.822241,13.980626000000001,213,22.8,9484.8,,
@@ -3434,7 +3506,7 @@ N682,Øyrabekken,2,HDAM,NO,60.126435,6.168049,300,,,,
 N683,Pålsbu,6.2,HDAM,NO,60.433067,8.734342,13,335,10720,,
 N684,Bergsfjord,1.1,HDAM,NO,70.249593,21.790286,,4.8,,,
 N685,Dauremål,4.95,HDAM,NO,61.829093,5.78213,172.35,53,22101,,
-N686,Bjørndalen,4.95,HDAM,NO,61.821713,5.799066,101.6,60,15000,,
+N686,Bjørndalen,4.95,HDAM,NO,61.821713,5.799066,101.6,60,15e3,,
 N687,Boge 1,1.35,HDAM,NO,60.463876,5.740612,209,,,,
 N688,Hisvatn,3.6,HDAM,NO,58.609254,6.895575,221,0.6,324,,
 N689,Oftedal II,5,HDAM,NO,58.542996,6.709784,130,,,,
