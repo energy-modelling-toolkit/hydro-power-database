@@ -42,6 +42,7 @@ Here a list of all the people which have personally contributed to this dataset.
    - André Ortner, MVV Energie and TU Wien
    - Clément Cabot, PSL - Mines-ParisTech
    - [@flacombe](https://github.com/flacombe)
+   - [@timtroendle](https://github.com/timtroendle)
    
 ## Coverage
 
