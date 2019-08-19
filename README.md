@@ -3,23 +3,23 @@
 
 # JRC Hydro-power plants database
 
-![map of hydro-power plants](map-location-v3.png)
+![map of hydro-power plants](map-location-v4.png)
 
 This dataset is an output of the Energy work package of the Water-Energy-Food-Ecosystems (WEFE) Nexus project at the European Commission's Joint Research Centre (JRC). This dataset has been created for power system modelling purposes and it is based on publicly available sources. This dataset tries to collect some basic information on all the European hydro-power plants. 
 
 The dataset contains the following variables (documented in the data package JSON):
   - id of the plant
   - name of the power plants
-  - installed capacity
+  - installed capacity (and pumping capacity when available)
   - country
   - coordinates
   - typology of the power plant (run-of-river, reservoir based or pumped-storage)
-  - height of the dam
+  - nominal head or height of the dam
   - size of the usable reservoir in million of cubic meters
   - maximum storage capacity in MWh
-  - link with the GEO and the PyPSA-EUR databases
+  - link with the GEO, PyPSA-EUR and WRI Global Power Plants databases
   
-The storage capacity  is reported only when directly available from the source, thus is **not** estimated or derived by us from the other variables. 
+The storage capacity is reported only when directly available from the source, thus is **not** estimated or derived by us from the other variables. 
 
 This dataset is released under [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
@@ -46,46 +46,46 @@ Here a list of all the people which have personally contributed to this dataset.
    
 ## Coverage
 
-The dataset contains 3877 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 3892 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
 |Albania                |  1.9|
-|Austria                | 13.9|
+|Austria                | 14.2|
 |Belgium                |  1.4|
 |Bosnia and Herzegovina |  2.0|
 |Bulgaria               |  2.9|
 |Croatia                |  2.1|
 |Czechia                |  1.9|
-|Finland                |  2.9|
+|Finland                |  2.6|
 |France                 | 20.0|
-|FYR of Macedonia       |  0.6|
+|North Macedonia        |  0.6|
 |Germany                | 10.1|
 |Greece                 |  3.4|
-|Hungary                |  0.1|
-|Ireland                |  0.6|
-|Italy                  | 18.9|
+|Hungary                |  0.0|
+|Ireland                |  0.5|
+|Italy                  | 19.2|
 |Latvia                 |  1.5|
 |Lithuania              |  1.0|
 |Luxembourg             |  1.3|
 |Montenegro             |  0.7|
-|Norway                 | 32.0|
+|Norway                 | 33.2|
 |Poland                 |  2.1|
 |Portugal               |  6.8|
 |Romania                |  6.2|
 |Serbia                 |  2.8|
 |Slovakia               |  2.5|
 |Slovenia               |  1.2|
-|Spain                  | 16.5|
-|Sweden                 | 13.8|
-|Switzerland            | 18.4|
-|United Kingdom         |  4.0|
+|Spain                  | 16.6|
+|Sweden                 | 14.0|
+|Switzerland            | 17.7|
+|United Kingdom         |  4.3|
 
 ## Sources
 
 The database has been built collecting the information from several other sources and then cross-checking and comparing in case of inconsistencies. The list of the used sources is here:
 
-  - JRC Power Plants Database (PPDB): available soon online
+  - [JRC Power Plants Database (PPDB)](https://zenodo.org/record/3349843)
   - [Global Energy Observatory (GEO)](http://globalenergyobservatory.org/)
   - [PyPSA-EUR](https://github.com/PyPSA/pypsa-eur)
   - [Global Reservoir and Dam Database (GRanD) 1.3](http://globaldamwatch.org/) 
@@ -144,3 +144,7 @@ The database has been built collecting the information from several other source
   - [hydrelect.info](http://www.hydrelect.info/)
   - [Digitális Tankönyvtár](https://www.tankonyvtar.hu/en)
   - [Hidroelectrica](www.hidroelectrica.ro)
+  - [Kalivac HPP](http://kalivachpp.com/)
+  - [Ayen](http://www.ayen.com.tr/eng/)
+  - [International Hydropower Association](https://www.hydropower.org/)
+  - [НЕК ЕАД](https://vec.nek.bg/)
