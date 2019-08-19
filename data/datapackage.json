@@ -9,7 +9,6 @@
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
-
   "resources": [
     {
       "path": "jrc-hydro-power-plant-database.csv",
@@ -32,6 +31,11 @@
             "description": "Association with the GEO Assigned Identification Number from http://globalenergyobservatory.org/ "
           },
           {
+            "name": "WRI",
+            "type": "string",
+            "description": "Association with the WRI Global Power Plant Database from https://www.wri.org/publication/global-power-plant-database "
+          },
+          {
             "name": "name",
             "type": "string",
             "description": "Name of the power plant"
@@ -40,6 +44,11 @@
             "name": "installed_capacity_MW",
             "type": "number",
             "description": "Electrical power generation capacity in MW"
+          },
+          {
+            "name": "pumping_MW",
+            "type": "number",
+            "description": "Pumping capacity in MW (only when specified)"
           },
           {
             "name": "type",
@@ -65,7 +74,7 @@
           {
             "name": "dam_height_m",
             "type": "number",
-            "description": "Height of the dam in meters"
+            "description": "Head of height of the dam in meters"
           },
           {
             "name": "volume_Mm3",
