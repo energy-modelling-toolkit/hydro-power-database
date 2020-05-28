@@ -3,9 +3,9 @@
 
 # JRC Hydro-power plants database
 
-![map of hydro-power plants](map-location-v4.png)
+![map of hydro-power plants](map-location.png)
 
-This dataset is an output of the Energy work package of the Water-Energy-Food-Ecosystems (WEFE) Nexus project at the European Commission's Joint Research Centre (JRC). This dataset has been created for power system modelling purposes and it is based on publicly available sources. This dataset tries to collect some basic information on all the European hydro-power plants. 
+This dataset is an output of the Energy work package of the Water-Energy-Food-Ecosystems (WEFE) Nexus project at the European Commission's Joint Research Centre (JRC). This dataset has been created for power system modelling purposes and it is based on publicly available sources. This dataset tries to collect some basic information on all the European hydro-power plants. Other related datasets are available in [the JRC Data Catalogue](https://data.jrc.ec.europa.eu/collection/id-00134).
 
 The dataset contains the following variables (documented in the data package JSON):
   - id of the plant
@@ -18,8 +18,9 @@ The dataset contains the following variables (documented in the data package JSO
   - size of the usable reservoir in million of cubic meters
   - maximum storage capacity in MWh
   - link with the GEO, PyPSA-EUR and WRI Global Power Plants databases
+  - annual average/expected generation in GWh
   
-The storage capacity is reported only when directly available from the source, thus is **not** estimated or derived by us from the other variables. 
+The storage capacity is reported only when directly available from the source, thus is **not** estimated or derived from the other variables. 
 
 This dataset is released under [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
@@ -33,6 +34,7 @@ Here a list of all the people which have personally contributed to this dataset.
    - Matteo De Felice, JRC: main author
    - Konstantinos Kanellopoulos, JRC
    - Ignacio Hidalgo-González, JRC
+   - [Kachirayil Febin](https://github.com/febinka)
    - Hrvoje Medarac, JRC
    - Goran Stunjek, University of Zagreb
    - Goran Krajacic, University of Zagreb
@@ -43,42 +45,43 @@ Here a list of all the people which have personally contributed to this dataset.
    - Clément Cabot, PSL - Mines-ParisTech
    - [@flacombe](https://github.com/flacombe)
    - [@timtroendle](https://github.com/timtroendle)
+   - Antoine Dubois, University of Liège
    
 ## Coverage
 
-The dataset contains 3892 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 3901 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
-|Albania                |  1.9|
-|Austria                | 14.2|
+|Albania                |  2.0|
+|Austria                | 13.7|
 |Belgium                |  1.4|
 |Bosnia and Herzegovina |  2.0|
 |Bulgaria               |  2.9|
 |Croatia                |  2.1|
 |Czechia                |  1.9|
 |Finland                |  2.6|
-|France                 | 20.0|
-|North Macedonia        |  0.6|
-|Germany                | 10.1|
+|France                 | 20.4|
+|Germany                | 10.8|
 |Greece                 |  3.4|
 |Hungary                |  0.0|
 |Ireland                |  0.5|
-|Italy                  | 19.2|
+|Italy                  | 19.3|
 |Latvia                 |  1.5|
 |Lithuania              |  1.0|
 |Luxembourg             |  1.3|
 |Montenegro             |  0.7|
 |Norway                 | 33.2|
+|North Macedonia        |  0.6|
 |Poland                 |  2.1|
 |Portugal               |  6.8|
 |Romania                |  6.2|
 |Serbia                 |  2.8|
 |Slovakia               |  2.5|
 |Slovenia               |  1.2|
-|Spain                  | 16.6|
-|Sweden                 | 14.0|
-|Switzerland            | 17.7|
+|Spain                  | 16.1|
+|Sweden                 | 13.7|
+|Switzerland            | 18.5|
 |United Kingdom         |  4.3|
 
 ## Sources
@@ -148,3 +151,9 @@ The database has been built collecting the information from several other source
   - [Ayen](http://www.ayen.com.tr/eng/)
   - [International Hydropower Association](https://www.hydropower.org/)
   - [НЕК ЕАД](https://vec.nek.bg/)
+  - [E-Control](www.e-control.at)
+  - [UGT](https://www.ugt.es/)
+  - [Kesh](http://kesh.al/)
+  - [Andritz](https://www.andritz.com/group-en)
+  - [Devoll Hydropower Sh.A](www.devollhydropower.al)
+  - [Enti Rregullator i Energjise](https://ere.gov.al/)

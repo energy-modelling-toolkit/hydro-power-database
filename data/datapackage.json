@@ -53,7 +53,7 @@
           {
             "name": "type",
             "type": "string",
-            "description": "Typologi of the power plant, according to the Dispa-SET classification of technologies http://www.dispaset.eu/en/latest/data.html"
+            "description": "Typology of the power plant, according to the Dispa-SET classification of technologies http://www.dispaset.eu/en/latest/data.html"
             
           },
           {
@@ -74,7 +74,7 @@
           {
             "name": "dam_height_m",
             "type": "number",
-            "description": "Head of height of the dam in meters"
+            "description": "Nominal head of the dam in meters"
           },
           {
             "name": "volume_Mm3",
@@ -85,6 +85,11 @@
             "name": "storage_capacity_MWh",
             "type": "number",
             "description": "Potential quantity of energy that can be stored in MWh"
+          },
+          {
+            "name": "avg_annual_generation_GWh",
+            "type": "number",
+            "description": "Expected/average generation per year (GWh)"
           }
         ]
       }
