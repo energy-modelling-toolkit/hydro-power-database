@@ -26,7 +26,7 @@ This dataset is released under [CC-BY-4.0 license](https://creativecommons.org/l
 
 ## Discuss & Contribute
 If you have any question or comment the best way would be to add a post in the Issues to keep track of open and closed issues/questions.
-If you want to contribute please [send me an email](mailto:matteo.de-felice@ec.europa.eu) or  submit a Pull Request on this repository. 
+If you want to contribute please [send me an email](mailto:matteo.de-felice@ec.europa.eu) or submit a Pull Request on this repository. 
 
 ## Author and contributors
 Here a list of all the people which have personally contributed to this dataset. If you think that your name should be here please send me an email.
@@ -35,6 +35,7 @@ Here a list of all the people which have personally contributed to this dataset.
    - Konstantinos Kanellopoulos, JRC
    - Ignacio Hidalgo-González, JRC
    - [Kachirayil Febin](https://github.com/febinka)
+   - Arnau Cangròs, Catalan Water Agency
    - Hrvoje Medarac, JRC
    - Goran Stunjek, University of Zagreb
    - Goran Krajacic, University of Zagreb
@@ -49,7 +50,7 @@ Here a list of all the people which have personally contributed to this dataset.
    
 ## Coverage
 
-The dataset contains 3901 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 4128 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
@@ -79,7 +80,7 @@ The dataset contains 3901 hydro-power plants. This is a table summarising the in
 |Serbia                 |  2.8|
 |Slovakia               |  2.5|
 |Slovenia               |  1.2|
-|Spain                  | 16.1|
+|Spain                  | 16.2|
 |Sweden                 | 13.7|
 |Switzerland            | 18.5|
 |United Kingdom         |  4.3|
@@ -157,3 +158,4 @@ The database has been built collecting the information from several other source
   - [Andritz](https://www.andritz.com/group-en)
   - [Devoll Hydropower Sh.A](www.devollhydropower.al)
   - [Enti Rregullator i Energjise](https://ere.gov.al/)
+  - [Catalan Water Agency](http://aca.gencat.cat/ca/inici)
