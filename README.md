@@ -50,12 +50,12 @@ Here a list of all the people which have personally contributed to this dataset.
    
 ## Coverage
 
-The dataset contains 4128 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 4127 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
 |Albania                |  2.0|
-|Austria                | 13.7|
+|Austria                | 13.6|
 |Belgium                |  1.4|
 |Bosnia and Herzegovina |  2.0|
 |Bulgaria               |  2.9|
@@ -80,7 +80,7 @@ The dataset contains 4128 hydro-power plants. This is a table summarising the in
 |Serbia                 |  2.8|
 |Slovakia               |  2.5|
 |Slovenia               |  1.2|
-|Spain                  | 16.2|
+|Spain                  | 16.1|
 |Sweden                 | 13.7|
 |Switzerland            | 18.5|
 |United Kingdom         |  4.3|
@@ -159,3 +159,4 @@ The database has been built collecting the information from several other source
   - [Devoll Hydropower Sh.A](www.devollhydropower.al)
   - [Enti Rregullator i Energjise](https://ere.gov.al/)
   - [Catalan Water Agency](http://aca.gencat.cat/ca/inici)
+  - [Electricité d'Emosson SA](http://www.emosson.ch)
