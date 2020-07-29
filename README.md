@@ -93,7 +93,7 @@ The database has been built collecting the information from several other source
   - [Global Energy Observatory (GEO)](http://globalenergyobservatory.org/)
   - [PyPSA-EUR](https://github.com/PyPSA/pypsa-eur)
   - [Global Reservoir and Dam Database (GRanD) 1.3](http://globaldamwatch.org/) 
-  - [Marktstammdatenregister MaStR](https://www.marktstammdatenregister.de/MaStR)
+  - [Marktstammdatenregister MaStR 1.2](https://www.marktstammdatenregister.de/MaStR)
   - [Open Data Réseaux Énergies](https://opendata.reseaux-energies.fr/pages/accueil/)
   - [OpenStreetMap](www.openstreetmap.org)
   - [Engadiner Kraftwerke AG website](https://www.ekwstrom.ch/startseite.html)
