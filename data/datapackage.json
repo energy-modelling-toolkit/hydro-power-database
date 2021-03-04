@@ -1,6 +1,6 @@
 {
   "profile": "tabular-data-package",
-  "name": "JRC Hydro Power Plants Database",
+  "name": "jrc-hydro-power-plants-database",
   "homepage": "http://github.com",
   "licenses": [
     {
@@ -8,32 +8,17 @@
       "title": "Creative Commons Attribution 4.0",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ]
+  ],
   "resources": [
     {
       "path": "jrc-hydro-power-plant-database.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
-        {
+          {
             "name": "id",
-            "type": "integer",
-            "description": "Unique identifier of the hydro-power plant"
-          },
-          {
-            "name": "pypsa_id",
-            "type": "integer",
-            "description": "Association with the ID column from https://github.com/PyPSA/pypsa-eur/blob/master/resources/powerplants.csv"
-          },
-          {
-            "name": "GEO",
-            "type": "integer",
-            "description": "Association with the GEO Assigned Identification Number from http://globalenergyobservatory.org/ "
-          },
-          {
-            "name": "WRI",
             "type": "string",
-            "description": "Association with the WRI Global Power Plant Database from https://www.wri.org/publication/global-power-plant-database "
+            "description": "Unique identifier of the hydro-power plant"
           },
           {
             "name": "name",
@@ -90,6 +75,21 @@
             "name": "avg_annual_generation_GWh",
             "type": "number",
             "description": "Expected/average generation per year (GWh)"
+          },
+          {
+            "name": "pypsa_id",
+            "type": "number",
+            "description": "Association with the ID column from https://github.com/PyPSA/pypsa-eur/blob/master/resources/powerplants.csv"
+          },
+          {
+            "name": "GEO",
+            "type": "string",
+            "description": "Association with the GEO Assigned Identification Number from http://globalenergyobservatory.org/ "
+          },
+          {
+            "name": "WRI",
+            "type": "string",
+            "description": "Association with the WRI Global Power Plant Database from https://www.wri.org/publication/global-power-plant-database "
           }
         ]
       }
