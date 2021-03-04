@@ -1,7 +1,7 @@
 {
   "profile": "tabular-data-package",
   "name": "jrc-hydro-power-plants-database",
-  "homepage": "http://github.com",
+  "homepage": "https://github.com/energy-modelling-toolkit/hydro-power-database",
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -18,17 +18,27 @@
           {
             "name": "id",
             "type": "string",
-            "description": "Unique identifier of the hydro-power plant"
+            "description": "Unique identifier of the hydro-power plant",
+            "constraints": {
+            	"required": true,
+            	"unique": true
+            }
           },
           {
             "name": "name",
             "type": "string",
-            "description": "Name of the power plant"
+            "description": "Name of the power plant",
+            "constraints": {
+            	"required": true
+            }
           },
           {
             "name": "installed_capacity_MW",
             "type": "number",
-            "description": "Electrical power generation capacity in MW"
+            "description": "Electrical power generation capacity in MW",
+            "constraints": {
+            	"required": true
+            }
           },
           {
             "name": "pumping_MW",
@@ -38,23 +48,35 @@
           {
             "name": "type",
             "type": "string",
-            "description": "Typology of the power plant, according to the Dispa-SET classification of technologies http://www.dispaset.eu/en/latest/data.html"
+            "description": "Typology of the power plant, according to the Dispa-SET classification of technologies http://www.dispaset.eu/en/latest/data.html",
+            "constraints": {
+            	"required": true
+            }
             
           },
           {
             "name": "country_code",
             "type": "string",
-            "description": "Country code according to ISO 3166-1 alpha-2"
+            "description": "Country code according to ISO 3166-1 alpha-2",
+            "constraints": {
+            	"required": true
+            }
           },
           {
             "name": "lat",
             "type": "number",
-            "description": "Latitude of the power plant in decimal degrees"
+            "description": "Latitude of the power plant in decimal degrees",
+            "constraints": {
+            	"required": true
+            }
           },
           {
             "name": "lon",
             "type": "number",
-            "description": "Longitude of the power plant in decimal degrees (-180, 180)"
+            "description": "Longitude of the power plant in decimal degrees (-180, 180)",
+            "constraints": {
+            	"required": true
+            }
           },
           {
             "name": "dam_height_m",
