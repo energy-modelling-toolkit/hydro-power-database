@@ -54,7 +54,7 @@ The dataset contains 4131 hydro-power plants. This is a table summarising the in
 
 |country                |   GW|
 |:----------------------|----:|
-|Albania                |  2.0|
+|Albania                |  2.1|
 |Austria                | 13.6|
 |Belgium                |  1.4|
 |Bosnia and Herzegovina |  2.0|
