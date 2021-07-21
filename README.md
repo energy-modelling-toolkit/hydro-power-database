@@ -82,7 +82,7 @@ The dataset contains 4131 hydro-power plants. This is a table summarising the in
 |Slovenia               |  1.2|
 |Spain                  | 16.1|
 |Sweden                 | 13.7|
-|Switzerland            | 18.5|
+|Switzerland            | 19.3|
 |United Kingdom         |  4.3|
 
 ## Sources
