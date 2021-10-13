@@ -13,6 +13,7 @@
     {
       "path": "jrc-hydro-power-plant-database.csv",
       "profile": "tabular-data-resource",
+      "name": "jrc-hydro-power-plants-database",
       "schema": {
         "fields": [
           {
