@@ -5,7 +5,7 @@
 
 ![map of hydro-power plants](map-location.png)
 
-This dataset is an output of the Energy work package of the Water-Energy-Food-Ecosystems (WEFE) Nexus project at the European Commission's Joint Research Centre (JRC). This dataset has been created for power system modelling purposes and it is based on publicly available sources. This dataset tries to collect some basic information on all the European hydro-power plants. Other related datasets are available in [the JRC Data Catalogue](https://data.jrc.ec.europa.eu/collection/id-00134).
+The development of this dataset started as an output of the Energy work package of the Water-Energy-Food-Ecosystems (WEFE) Nexus project at the European Commission's Joint Research Centre (JRC). This dataset has been created for power system modelling purposes and it is based on publicly available sources. This dataset tries to collect some basic information on all the European hydro-power plants. Other related datasets are available in [the JRC Data Catalogue](https://data.jrc.ec.europa.eu/collection/id-00134).
 
 The dataset contains the following variables (documented in the data package JSON):
   - id of the plant
@@ -22,16 +22,16 @@ The dataset contains the following variables (documented in the data package JSO
   
 The storage capacity is reported only when directly available from the source, thus is **not** estimated or derived from the other variables. 
 
-This dataset is released under [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
+This dataset is released under [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/). This dataset is an open project and it is not an official product of the European Commission.
 
 ## Discuss & Contribute
 If you have any question or comment the best way would be to add a post in the Issues to keep track of open and closed issues/questions.
-If you want to contribute please [send me an email](mailto:matteo.de-felice@ec.europa.eu) or submit a Pull Request on this repository. 
+If you want to contribute please [send me an email](mailto:matteo.defelice@outlook.copm) or submit a Pull Request on this repository. 
 
 ## Author and contributors
 Here a list of all the people which have personally contributed to this dataset. If you think that your name should be here please send me an email.
 
-   - Matteo De Felice, JRC: main author
+   - Matteo De Felice: main author
    - Konstantinos Kanellopoulos, JRC
    - Ignacio Hidalgo-González, JRC
    - [Kachirayil Febin](https://github.com/febinka)
@@ -161,3 +161,4 @@ The database has been built collecting the information from several other source
   - [Enti Rregullator i Energjise](https://ere.gov.al/)
   - [Catalan Water Agency](http://aca.gencat.cat/ca/inici)
   - [Electricité d'Emosson SA](http://www.emosson.ch)
+  - [Hydropower and climate change, insights from the integrated water-energy modelling of the Drin Basin](https://www.sciencedirect.com/science/article/pii/S2211467X23000482?via%3Dihub)
