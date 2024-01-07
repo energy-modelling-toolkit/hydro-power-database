@@ -52,7 +52,7 @@ Here a list of all the people which have personally contributed to this dataset.
    
 ## Coverage
 
-The dataset contains 4178 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 4179 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
