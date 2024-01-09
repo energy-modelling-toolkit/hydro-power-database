@@ -48,7 +48,8 @@ Here a list of all the people which have personally contributed to this dataset.
    - [@timtroendle](https://github.com/timtroendle)
    - Antoine Dubois, University of Liège
    - [Shruthi Patil](https://github.com/Shruthi-Patil)
-   - [Larissa Doré](https://wupperinst.org/en/c/wi/c/s/cd/4637) 
+   - [Larissa Doré](https://wupperinst.org/en/c/wi/c/s/cd/4637)
+   - Richard Gönnheimer
    
 ## Coverage
 
