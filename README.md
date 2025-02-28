@@ -50,10 +50,14 @@ Here a list of all the people which have personally contributed to this dataset.
    - [Shruthi Patil](https://github.com/Shruthi-Patil)
    - [Larissa Doré](https://wupperinst.org/en/c/wi/c/s/cd/4637)
    - Richard Gönnheimer
+   - Matteo Catania, Department of Energy, Politecnico di Milano
+   - Federico Parolin, Department of Energy, Politecnico di Milano
+   - Fabrizio Fattori, Dipartimento di Scienze Teoriche e Applicate, Università Degli Studi Dell’Insubria
+   - Paolo Colbertaldo, Department of Energy, Politecnico di Milano
    
 ## Coverage
 
-The dataset contains 4179 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
+The dataset contains 4264 hydro-power plants. This is a table summarising the installed capacity in GW for all the countries appearing in the database. 
 
 |country                |   GW|
 |:----------------------|----:|
@@ -70,7 +74,7 @@ The dataset contains 4179 hydro-power plants. This is a table summarising the in
 |Greece                 |  3.4|
 |Hungary                |  0.0|
 |Ireland                |  0.5|
-|Italy                  | 19.4|
+|Italy                  | 20.3|
 |Kosovo                 |  0.1|
 |Latvia                 |  1.5|
 |Lithuania              |  1.0|
@@ -78,7 +82,7 @@ The dataset contains 4179 hydro-power plants. This is a table summarising the in
 |Norway                 | 33.0|
 |North Macedonia        |  0.6|
 |Poland                 |  2.1|
-|Portugal               |  8.0|
+|Portugal               |  7.6|
 |Romania                |  6.2|
 |Serbia                 |  2.8|
 |Slovakia               |  2.5|
@@ -96,6 +100,7 @@ The database has been built collecting the information from several other source
   - [Global Energy Observatory (GEO)](http://globalenergyobservatory.org/)
   - [PyPSA-EUR](https://github.com/PyPSA/pypsa-eur)
   - [Global Reservoir and Dam Database (GRanD) 1.3](http://globaldamwatch.org/) 
+  - [Italian Hydropower Programmable Plants Database](https://hydropowerdatabaseitaly.github.io/)
   - [Marktstammdatenregister MaStR 1.2](https://www.marktstammdatenregister.de/MaStR)
   - [Open Data Réseaux Énergies](https://opendata.reseaux-energies.fr/pages/accueil/)
   - [OpenStreetMap](www.openstreetmap.org)
