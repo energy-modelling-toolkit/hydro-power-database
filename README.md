@@ -54,6 +54,7 @@ Here a list of all the people which have personally contributed to this dataset.
    - Federico Parolin, Department of Energy, Politecnico di Milano
    - Fabrizio Fattori, Dipartimento di Scienze Teoriche e Applicate, Università Degli Studi Dell’Insubria
    - Paolo Colbertaldo, Department of Energy, Politecnico di Milano
+   - [Oskar Vågerö](https://github.com/OskarVagero), Department of Technology Systems, University of Oslo
    
 ## Coverage
 
